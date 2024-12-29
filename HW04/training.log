@@ -1,0 +1,1692 @@
+2024-12-15 01:02:00,660 - INFO - Starting training on cuda
+2024-12-15 01:02:00,661 - INFO - Config: {'data_dir': 'data', 'checkpoint_dir': 'checkpoints', 'learning_rate': 0.01, 'batch_size': 64, 'num_workers': 4, 'epochs': 300}
+2024-12-15 01:11:16,246 - INFO - Starting training on cuda
+2024-12-15 01:11:16,246 - INFO - Config: {'data_dir': 'data', 'checkpoint_dir': 'checkpoints', 'learning_rate': 0.01, 'batch_size': 64, 'num_workers': 4, 'epochs': 300}
+2024-12-15 01:11:56,013 - INFO - Starting training on cuda
+2024-12-15 01:11:56,013 - INFO - Config: {'data_dir': 'data', 'checkpoint_dir': 'checkpoints', 'learning_rate': 0.01, 'batch_size': 64, 'num_workers': 4, 'epochs': 300}
+2024-12-15 01:13:37,654 - INFO - Starting training on cuda
+2024-12-15 01:13:37,654 - INFO - Config: {'data_dir': 'data', 'checkpoint_dir': 'checkpoints', 'learning_rate': 0.01, 'batch_size': 64, 'num_workers': 4, 'epochs': 300}
+2024-12-15 01:16:20,432 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch0_acc29.58.pth
+2024-12-15 01:16:20,433 - INFO - 
+Epoch 1/300:
+2024-12-15 01:16:20,433 - INFO - Train Loss: 1.7226 | Train Acc: 29.58%
+2024-12-15 01:16:20,433 - INFO - Best Train Acc: 29.58%
+2024-12-15 01:16:20,433 - INFO - Learning Rate: 0.010000
+2024-12-15 01:19:12,691 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch1_acc42.41.pth
+2024-12-15 01:19:12,691 - INFO - 
+Epoch 2/300:
+2024-12-15 01:19:12,692 - INFO - Train Loss: 1.4758 | Train Acc: 42.41%
+2024-12-15 01:19:12,692 - INFO - Best Train Acc: 42.41%
+2024-12-15 01:19:12,692 - INFO - Learning Rate: 0.010000
+2024-12-15 01:22:06,703 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch2_acc48.46.pth
+2024-12-15 01:22:06,704 - INFO - 
+Epoch 3/300:
+2024-12-15 01:22:06,704 - INFO - Train Loss: 1.3364 | Train Acc: 48.46%
+2024-12-15 01:22:06,704 - INFO - Best Train Acc: 48.46%
+2024-12-15 01:22:06,704 - INFO - Learning Rate: 0.010000
+2024-12-15 01:25:12,660 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch3_acc52.14.pth
+2024-12-15 01:25:12,660 - INFO - 
+Epoch 4/300:
+2024-12-15 01:25:12,660 - INFO - Train Loss: 1.2545 | Train Acc: 52.14%
+2024-12-15 01:25:12,660 - INFO - Best Train Acc: 52.14%
+2024-12-15 01:25:12,660 - INFO - Learning Rate: 0.010000
+2024-12-15 01:28:21,760 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch4_acc54.18.pth
+2024-12-15 01:28:21,761 - INFO - 
+Epoch 5/300:
+2024-12-15 01:28:21,761 - INFO - Train Loss: 1.2004 | Train Acc: 54.18%
+2024-12-15 01:28:21,761 - INFO - Best Train Acc: 54.18%
+2024-12-15 01:28:21,761 - INFO - Learning Rate: 0.010000
+2024-12-15 01:31:35,937 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch5_acc55.87.pth
+2024-12-15 01:31:35,957 - INFO - 
+Epoch 6/300:
+2024-12-15 01:31:35,957 - INFO - Train Loss: 1.1617 | Train Acc: 55.87%
+2024-12-15 01:31:35,957 - INFO - Best Train Acc: 55.87%
+2024-12-15 01:31:35,957 - INFO - Learning Rate: 0.010000
+2024-12-15 01:34:36,791 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch6_acc57.14.pth
+2024-12-15 01:34:36,791 - INFO - 
+Epoch 7/300:
+2024-12-15 01:34:36,791 - INFO - Train Loss: 1.1263 | Train Acc: 57.14%
+2024-12-15 01:34:36,791 - INFO - Best Train Acc: 57.14%
+2024-12-15 01:34:36,791 - INFO - Learning Rate: 0.010000
+2024-12-15 01:37:36,554 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch7_acc58.44.pth
+2024-12-15 01:37:36,592 - INFO - 
+Epoch 8/300:
+2024-12-15 01:37:36,592 - INFO - Train Loss: 1.0974 | Train Acc: 58.44%
+2024-12-15 01:37:36,592 - INFO - Best Train Acc: 58.44%
+2024-12-15 01:37:36,592 - INFO - Learning Rate: 0.010000
+2024-12-15 01:40:19,581 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch8_acc59.42.pth
+2024-12-15 01:40:19,581 - INFO - 
+Epoch 9/300:
+2024-12-15 01:40:19,581 - INFO - Train Loss: 1.0716 | Train Acc: 59.42%
+2024-12-15 01:40:19,581 - INFO - Best Train Acc: 59.42%
+2024-12-15 01:40:19,581 - INFO - Learning Rate: 0.010000
+2024-12-15 01:43:04,278 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch9_acc60.21.pth
+2024-12-15 01:43:05,123 - INFO - 
+Epoch 10/300:
+2024-12-15 01:43:05,123 - INFO - Train Loss: 1.0503 | Train Acc: 60.21%
+2024-12-15 01:43:05,123 - INFO - Best Train Acc: 60.21%
+2024-12-15 01:43:05,123 - INFO - Learning Rate: 0.010000
+2024-12-15 01:45:50,046 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch10_acc60.91.pth
+2024-12-15 01:45:50,046 - INFO - 
+Epoch 11/300:
+2024-12-15 01:45:50,046 - INFO - Train Loss: 1.0273 | Train Acc: 60.91%
+2024-12-15 01:45:50,046 - INFO - Best Train Acc: 60.91%
+2024-12-15 01:45:50,046 - INFO - Learning Rate: 0.010000
+2024-12-15 01:48:37,531 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch11_acc61.92.pth
+2024-12-15 01:48:37,531 - INFO - 
+Epoch 12/300:
+2024-12-15 01:48:37,532 - INFO - Train Loss: 1.0081 | Train Acc: 61.92%
+2024-12-15 01:48:37,532 - INFO - Best Train Acc: 61.92%
+2024-12-15 01:48:37,532 - INFO - Learning Rate: 0.010000
+2024-12-15 01:51:21,015 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch12_acc62.70.pth
+2024-12-15 01:51:21,015 - INFO - 
+Epoch 13/300:
+2024-12-15 01:51:21,015 - INFO - Train Loss: 0.9894 | Train Acc: 62.70%
+2024-12-15 01:51:21,015 - INFO - Best Train Acc: 62.70%
+2024-12-15 01:51:21,015 - INFO - Learning Rate: 0.010000
+2024-12-15 01:54:13,376 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch13_acc63.29.pth
+2024-12-15 01:54:13,376 - INFO - 
+Epoch 14/300:
+2024-12-15 01:54:13,376 - INFO - Train Loss: 0.9749 | Train Acc: 63.29%
+2024-12-15 01:54:13,376 - INFO - Best Train Acc: 63.29%
+2024-12-15 01:54:13,376 - INFO - Learning Rate: 0.010000
+2024-12-15 01:57:07,524 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch14_acc63.95.pth
+2024-12-15 01:57:07,561 - INFO - 
+Epoch 15/300:
+2024-12-15 01:57:07,562 - INFO - Train Loss: 0.9572 | Train Acc: 63.95%
+2024-12-15 01:57:07,562 - INFO - Best Train Acc: 63.95%
+2024-12-15 01:57:07,562 - INFO - Learning Rate: 0.010000
+2024-12-15 02:00:24,390 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch15_acc64.40.pth
+2024-12-15 02:00:24,390 - INFO - 
+Epoch 16/300:
+2024-12-15 02:00:24,390 - INFO - Train Loss: 0.9411 | Train Acc: 64.40%
+2024-12-15 02:00:24,390 - INFO - Best Train Acc: 64.40%
+2024-12-15 02:00:24,390 - INFO - Learning Rate: 0.010000
+2024-12-15 02:03:19,387 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch16_acc65.02.pth
+2024-12-15 02:03:19,387 - INFO - 
+Epoch 17/300:
+2024-12-15 02:03:19,387 - INFO - Train Loss: 0.9260 | Train Acc: 65.02%
+2024-12-15 02:03:19,387 - INFO - Best Train Acc: 65.02%
+2024-12-15 02:03:19,387 - INFO - Learning Rate: 0.010000
+2024-12-15 02:06:22,134 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch17_acc65.81.pth
+2024-12-15 02:06:22,135 - INFO - 
+Epoch 18/300:
+2024-12-15 02:06:22,135 - INFO - Train Loss: 0.9070 | Train Acc: 65.81%
+2024-12-15 02:06:22,135 - INFO - Best Train Acc: 65.81%
+2024-12-15 02:06:22,135 - INFO - Learning Rate: 0.010000
+2024-12-15 02:09:00,561 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch18_acc66.32.pth
+2024-12-15 02:09:00,561 - INFO - 
+Epoch 19/300:
+2024-12-15 02:09:00,561 - INFO - Train Loss: 0.8953 | Train Acc: 66.32%
+2024-12-15 02:09:00,561 - INFO - Best Train Acc: 66.32%
+2024-12-15 02:09:00,561 - INFO - Learning Rate: 0.010000
+2024-12-15 02:11:36,988 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch19_acc66.70.pth
+2024-12-15 02:11:37,280 - INFO - 
+Epoch 20/300:
+2024-12-15 02:11:37,280 - INFO - Train Loss: 0.8806 | Train Acc: 66.70%
+2024-12-15 02:11:37,280 - INFO - Best Train Acc: 66.70%
+2024-12-15 02:11:37,280 - INFO - Learning Rate: 0.010000
+2024-12-15 02:14:14,421 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch20_acc67.24.pth
+2024-12-15 02:14:14,421 - INFO - 
+Epoch 21/300:
+2024-12-15 02:14:14,421 - INFO - Train Loss: 0.8659 | Train Acc: 67.24%
+2024-12-15 02:14:14,421 - INFO - Best Train Acc: 67.24%
+2024-12-15 02:14:14,421 - INFO - Learning Rate: 0.010000
+2024-12-15 02:17:08,082 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch21_acc67.86.pth
+2024-12-15 02:17:08,082 - INFO - 
+Epoch 22/300:
+2024-12-15 02:17:08,082 - INFO - Train Loss: 0.8501 | Train Acc: 67.86%
+2024-12-15 02:17:08,082 - INFO - Best Train Acc: 67.86%
+2024-12-15 02:17:08,082 - INFO - Learning Rate: 0.010000
+2024-12-15 02:20:11,784 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch22_acc68.60.pth
+2024-12-15 02:20:11,842 - INFO - 
+Epoch 23/300:
+2024-12-15 02:20:11,842 - INFO - Train Loss: 0.8362 | Train Acc: 68.60%
+2024-12-15 02:20:11,842 - INFO - Best Train Acc: 68.60%
+2024-12-15 02:20:11,842 - INFO - Learning Rate: 0.010000
+2024-12-15 02:22:51,571 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch23_acc69.01.pth
+2024-12-15 02:22:51,571 - INFO - 
+Epoch 24/300:
+2024-12-15 02:22:51,571 - INFO - Train Loss: 0.8250 | Train Acc: 69.01%
+2024-12-15 02:22:51,571 - INFO - Best Train Acc: 69.01%
+2024-12-15 02:22:51,571 - INFO - Learning Rate: 0.010000
+2024-12-15 02:25:50,465 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch24_acc69.75.pth
+2024-12-15 02:25:50,465 - INFO - 
+Epoch 25/300:
+2024-12-15 02:25:50,465 - INFO - Train Loss: 0.8056 | Train Acc: 69.75%
+2024-12-15 02:25:50,465 - INFO - Best Train Acc: 69.75%
+2024-12-15 02:25:50,465 - INFO - Learning Rate: 0.010000
+2024-12-15 02:28:48,633 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch25_acc70.12.pth
+2024-12-15 02:28:48,671 - INFO - 
+Epoch 26/300:
+2024-12-15 02:28:48,671 - INFO - Train Loss: 0.7961 | Train Acc: 70.12%
+2024-12-15 02:28:48,671 - INFO - Best Train Acc: 70.12%
+2024-12-15 02:28:48,671 - INFO - Learning Rate: 0.010000
+2024-12-15 02:31:47,120 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch26_acc70.70.pth
+2024-12-15 02:31:47,120 - INFO - 
+Epoch 27/300:
+2024-12-15 02:31:47,120 - INFO - Train Loss: 0.7797 | Train Acc: 70.70%
+2024-12-15 02:31:47,120 - INFO - Best Train Acc: 70.70%
+2024-12-15 02:31:47,120 - INFO - Learning Rate: 0.010000
+2024-12-15 02:34:44,987 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch27_acc71.15.pth
+2024-12-15 02:34:45,025 - INFO - 
+Epoch 28/300:
+2024-12-15 02:34:45,025 - INFO - Train Loss: 0.7673 | Train Acc: 71.15%
+2024-12-15 02:34:45,025 - INFO - Best Train Acc: 71.15%
+2024-12-15 02:34:45,025 - INFO - Learning Rate: 0.010000
+2024-12-15 02:37:43,586 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch28_acc71.77.pth
+2024-12-15 02:37:43,586 - INFO - 
+Epoch 29/300:
+2024-12-15 02:37:43,586 - INFO - Train Loss: 0.7522 | Train Acc: 71.77%
+2024-12-15 02:37:43,586 - INFO - Best Train Acc: 71.77%
+2024-12-15 02:37:43,586 - INFO - Learning Rate: 0.010000
+2024-12-15 02:40:40,504 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch29_acc72.18.pth
+2024-12-15 02:40:40,836 - INFO - 
+Epoch 30/300:
+2024-12-15 02:40:40,836 - INFO - Train Loss: 0.7391 | Train Acc: 72.18%
+2024-12-15 02:40:40,836 - INFO - Best Train Acc: 72.18%
+2024-12-15 02:40:40,836 - INFO - Learning Rate: 0.010000
+2024-12-15 02:43:37,292 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch30_acc72.78.pth
+2024-12-15 02:43:37,293 - INFO - 
+Epoch 31/300:
+2024-12-15 02:43:37,293 - INFO - Train Loss: 0.7267 | Train Acc: 72.78%
+2024-12-15 02:43:37,293 - INFO - Best Train Acc: 72.78%
+2024-12-15 02:43:37,293 - INFO - Learning Rate: 0.010000
+2024-12-15 02:47:00,300 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch31_acc73.25.pth
+2024-12-15 02:47:00,338 - INFO - 
+Epoch 32/300:
+2024-12-15 02:47:00,339 - INFO - Train Loss: 0.7132 | Train Acc: 73.25%
+2024-12-15 02:47:00,339 - INFO - Best Train Acc: 73.25%
+2024-12-15 02:47:00,339 - INFO - Learning Rate: 0.010000
+2024-12-15 02:50:10,354 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch32_acc73.91.pth
+2024-12-15 02:50:10,354 - INFO - 
+Epoch 33/300:
+2024-12-15 02:50:10,354 - INFO - Train Loss: 0.6957 | Train Acc: 73.91%
+2024-12-15 02:50:10,354 - INFO - Best Train Acc: 73.91%
+2024-12-15 02:50:10,354 - INFO - Learning Rate: 0.010000
+2024-12-15 02:53:09,895 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch33_acc74.46.pth
+2024-12-15 02:53:09,896 - INFO - 
+Epoch 34/300:
+2024-12-15 02:53:09,896 - INFO - Train Loss: 0.6844 | Train Acc: 74.46%
+2024-12-15 02:53:09,896 - INFO - Best Train Acc: 74.46%
+2024-12-15 02:53:09,896 - INFO - Learning Rate: 0.010000
+2024-12-15 02:55:48,361 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch34_acc74.97.pth
+2024-12-15 02:55:48,361 - INFO - 
+Epoch 35/300:
+2024-12-15 02:55:48,361 - INFO - Train Loss: 0.6725 | Train Acc: 74.97%
+2024-12-15 02:55:48,361 - INFO - Best Train Acc: 74.97%
+2024-12-15 02:55:48,361 - INFO - Learning Rate: 0.010000
+2024-12-15 02:58:24,429 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch35_acc75.51.pth
+2024-12-15 02:58:24,429 - INFO - 
+Epoch 36/300:
+2024-12-15 02:58:24,429 - INFO - Train Loss: 0.6562 | Train Acc: 75.51%
+2024-12-15 02:58:24,429 - INFO - Best Train Acc: 75.51%
+2024-12-15 02:58:24,429 - INFO - Learning Rate: 0.010000
+2024-12-15 03:00:59,840 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch36_acc75.88.pth
+2024-12-15 03:00:59,841 - INFO - 
+Epoch 37/300:
+2024-12-15 03:00:59,841 - INFO - Train Loss: 0.6455 | Train Acc: 75.88%
+2024-12-15 03:00:59,841 - INFO - Best Train Acc: 75.88%
+2024-12-15 03:00:59,841 - INFO - Learning Rate: 0.010000
+2024-12-15 03:03:35,334 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch37_acc76.46.pth
+2024-12-15 03:03:35,334 - INFO - 
+Epoch 38/300:
+2024-12-15 03:03:35,334 - INFO - Train Loss: 0.6308 | Train Acc: 76.46%
+2024-12-15 03:03:35,335 - INFO - Best Train Acc: 76.46%
+2024-12-15 03:03:35,335 - INFO - Learning Rate: 0.010000
+2024-12-15 03:06:12,713 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch38_acc76.77.pth
+2024-12-15 03:06:12,713 - INFO - 
+Epoch 39/300:
+2024-12-15 03:06:12,713 - INFO - Train Loss: 0.6211 | Train Acc: 76.77%
+2024-12-15 03:06:12,713 - INFO - Best Train Acc: 76.77%
+2024-12-15 03:06:12,713 - INFO - Learning Rate: 0.010000
+2024-12-15 03:08:48,012 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch39_acc77.40.pth
+2024-12-15 03:08:48,305 - INFO - 
+Epoch 40/300:
+2024-12-15 03:08:48,305 - INFO - Train Loss: 0.6036 | Train Acc: 77.40%
+2024-12-15 03:08:48,305 - INFO - Best Train Acc: 77.40%
+2024-12-15 03:08:48,305 - INFO - Learning Rate: 0.010000
+2024-12-15 03:11:23,039 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch40_acc77.81.pth
+2024-12-15 03:11:23,039 - INFO - 
+Epoch 41/300:
+2024-12-15 03:11:23,039 - INFO - Train Loss: 0.5925 | Train Acc: 77.81%
+2024-12-15 03:11:23,039 - INFO - Best Train Acc: 77.81%
+2024-12-15 03:11:23,039 - INFO - Learning Rate: 0.010000
+2024-12-15 03:13:57,676 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch41_acc78.32.pth
+2024-12-15 03:13:57,676 - INFO - 
+Epoch 42/300:
+2024-12-15 03:13:57,676 - INFO - Train Loss: 0.5805 | Train Acc: 78.32%
+2024-12-15 03:13:57,676 - INFO - Best Train Acc: 78.32%
+2024-12-15 03:13:57,676 - INFO - Learning Rate: 0.010000
+2024-12-15 03:16:31,995 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch42_acc78.71.pth
+2024-12-15 03:16:31,995 - INFO - 
+Epoch 43/300:
+2024-12-15 03:16:31,995 - INFO - Train Loss: 0.5704 | Train Acc: 78.71%
+2024-12-15 03:16:31,995 - INFO - Best Train Acc: 78.71%
+2024-12-15 03:16:31,995 - INFO - Learning Rate: 0.010000
+2024-12-15 03:19:06,228 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch43_acc79.38.pth
+2024-12-15 03:19:06,229 - INFO - 
+Epoch 44/300:
+2024-12-15 03:19:06,229 - INFO - Train Loss: 0.5531 | Train Acc: 79.38%
+2024-12-15 03:19:06,229 - INFO - Best Train Acc: 79.38%
+2024-12-15 03:19:06,229 - INFO - Learning Rate: 0.010000
+2024-12-15 03:21:40,329 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch44_acc79.77.pth
+2024-12-15 03:21:40,330 - INFO - 
+Epoch 45/300:
+2024-12-15 03:21:40,330 - INFO - Train Loss: 0.5449 | Train Acc: 79.77%
+2024-12-15 03:21:40,330 - INFO - Best Train Acc: 79.77%
+2024-12-15 03:21:40,330 - INFO - Learning Rate: 0.010000
+2024-12-15 03:24:14,297 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch45_acc80.20.pth
+2024-12-15 03:24:14,297 - INFO - 
+Epoch 46/300:
+2024-12-15 03:24:14,297 - INFO - Train Loss: 0.5324 | Train Acc: 80.20%
+2024-12-15 03:24:14,297 - INFO - Best Train Acc: 80.20%
+2024-12-15 03:24:14,297 - INFO - Learning Rate: 0.010000
+2024-12-15 03:26:48,517 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch46_acc80.55.pth
+2024-12-15 03:26:48,518 - INFO - 
+Epoch 47/300:
+2024-12-15 03:26:48,518 - INFO - Train Loss: 0.5216 | Train Acc: 80.55%
+2024-12-15 03:26:48,518 - INFO - Best Train Acc: 80.55%
+2024-12-15 03:26:48,518 - INFO - Learning Rate: 0.010000
+2024-12-15 03:29:22,620 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch47_acc81.07.pth
+2024-12-15 03:29:22,620 - INFO - 
+Epoch 48/300:
+2024-12-15 03:29:22,620 - INFO - Train Loss: 0.5093 | Train Acc: 81.07%
+2024-12-15 03:29:22,620 - INFO - Best Train Acc: 81.07%
+2024-12-15 03:29:22,620 - INFO - Learning Rate: 0.010000
+2024-12-15 03:31:56,705 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch48_acc81.42.pth
+2024-12-15 03:31:56,706 - INFO - 
+Epoch 49/300:
+2024-12-15 03:31:56,706 - INFO - Train Loss: 0.4998 | Train Acc: 81.42%
+2024-12-15 03:31:56,706 - INFO - Best Train Acc: 81.42%
+2024-12-15 03:31:56,706 - INFO - Learning Rate: 0.010000
+2024-12-15 03:34:30,752 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch49_acc81.95.pth
+2024-12-15 03:34:31,032 - INFO - 
+Epoch 50/300:
+2024-12-15 03:34:31,032 - INFO - Train Loss: 0.4879 | Train Acc: 81.95%
+2024-12-15 03:34:31,032 - INFO - Best Train Acc: 81.95%
+2024-12-15 03:34:31,032 - INFO - Learning Rate: 0.010000
+2024-12-15 03:37:05,005 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch50_acc82.34.pth
+2024-12-15 03:37:05,005 - INFO - 
+Epoch 51/300:
+2024-12-15 03:37:05,005 - INFO - Train Loss: 0.4764 | Train Acc: 82.34%
+2024-12-15 03:37:05,005 - INFO - Best Train Acc: 82.34%
+2024-12-15 03:37:05,005 - INFO - Learning Rate: 0.010000
+2024-12-15 03:39:38,973 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch51_acc82.65.pth
+2024-12-15 03:39:38,974 - INFO - 
+Epoch 52/300:
+2024-12-15 03:39:38,974 - INFO - Train Loss: 0.4691 | Train Acc: 82.65%
+2024-12-15 03:39:38,974 - INFO - Best Train Acc: 82.65%
+2024-12-15 03:39:38,974 - INFO - Learning Rate: 0.010000
+2024-12-15 03:42:13,331 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch52_acc83.06.pth
+2024-12-15 03:42:13,331 - INFO - 
+Epoch 53/300:
+2024-12-15 03:42:13,331 - INFO - Train Loss: 0.4580 | Train Acc: 83.06%
+2024-12-15 03:42:13,331 - INFO - Best Train Acc: 83.06%
+2024-12-15 03:42:13,331 - INFO - Learning Rate: 0.010000
+2024-12-15 03:44:47,389 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch53_acc83.35.pth
+2024-12-15 03:44:47,389 - INFO - 
+Epoch 54/300:
+2024-12-15 03:44:47,389 - INFO - Train Loss: 0.4492 | Train Acc: 83.35%
+2024-12-15 03:44:47,389 - INFO - Best Train Acc: 83.35%
+2024-12-15 03:44:47,389 - INFO - Learning Rate: 0.010000
+2024-12-15 03:47:21,691 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch54_acc83.76.pth
+2024-12-15 03:47:21,692 - INFO - 
+Epoch 55/300:
+2024-12-15 03:47:21,692 - INFO - Train Loss: 0.4383 | Train Acc: 83.76%
+2024-12-15 03:47:21,692 - INFO - Best Train Acc: 83.76%
+2024-12-15 03:47:21,692 - INFO - Learning Rate: 0.010000
+2024-12-15 03:49:55,768 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch55_acc84.07.pth
+2024-12-15 03:49:55,768 - INFO - 
+Epoch 56/300:
+2024-12-15 03:49:55,768 - INFO - Train Loss: 0.4313 | Train Acc: 84.07%
+2024-12-15 03:49:55,768 - INFO - Best Train Acc: 84.07%
+2024-12-15 03:49:55,768 - INFO - Learning Rate: 0.010000
+2024-12-15 03:52:29,618 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch56_acc84.29.pth
+2024-12-15 03:52:29,618 - INFO - 
+Epoch 57/300:
+2024-12-15 03:52:29,618 - INFO - Train Loss: 0.4252 | Train Acc: 84.29%
+2024-12-15 03:52:29,618 - INFO - Best Train Acc: 84.29%
+2024-12-15 03:52:29,618 - INFO - Learning Rate: 0.010000
+2024-12-15 03:55:03,543 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch57_acc84.93.pth
+2024-12-15 03:55:03,543 - INFO - 
+Epoch 58/300:
+2024-12-15 03:55:03,543 - INFO - Train Loss: 0.4079 | Train Acc: 84.93%
+2024-12-15 03:55:03,543 - INFO - Best Train Acc: 84.93%
+2024-12-15 03:55:03,543 - INFO - Learning Rate: 0.010000
+2024-12-15 03:57:37,245 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch58_acc84.95.pth
+2024-12-15 03:57:37,245 - INFO - 
+Epoch 59/300:
+2024-12-15 03:57:37,245 - INFO - Train Loss: 0.4063 | Train Acc: 84.95%
+2024-12-15 03:57:37,245 - INFO - Best Train Acc: 84.95%
+2024-12-15 03:57:37,245 - INFO - Learning Rate: 0.010000
+2024-12-15 04:00:11,099 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch59_acc85.37.pth
+2024-12-15 04:00:11,382 - INFO - 
+Epoch 60/300:
+2024-12-15 04:00:11,382 - INFO - Train Loss: 0.3980 | Train Acc: 85.37%
+2024-12-15 04:00:11,382 - INFO - Best Train Acc: 85.37%
+2024-12-15 04:00:11,382 - INFO - Learning Rate: 0.010000
+2024-12-15 04:02:44,913 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch60_acc85.68.pth
+2024-12-15 04:02:44,914 - INFO - 
+Epoch 61/300:
+2024-12-15 04:02:44,914 - INFO - Train Loss: 0.3888 | Train Acc: 85.68%
+2024-12-15 04:02:44,914 - INFO - Best Train Acc: 85.68%
+2024-12-15 04:02:44,914 - INFO - Learning Rate: 0.010000
+2024-12-15 04:05:18,530 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch61_acc86.13.pth
+2024-12-15 04:05:18,530 - INFO - 
+Epoch 62/300:
+2024-12-15 04:05:18,530 - INFO - Train Loss: 0.3752 | Train Acc: 86.13%
+2024-12-15 04:05:18,530 - INFO - Best Train Acc: 86.13%
+2024-12-15 04:05:18,530 - INFO - Learning Rate: 0.010000
+2024-12-15 04:07:52,462 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch62_acc86.19.pth
+2024-12-15 04:07:52,463 - INFO - 
+Epoch 63/300:
+2024-12-15 04:07:52,463 - INFO - Train Loss: 0.3747 | Train Acc: 86.19%
+2024-12-15 04:07:52,463 - INFO - Best Train Acc: 86.19%
+2024-12-15 04:07:52,463 - INFO - Learning Rate: 0.010000
+2024-12-15 04:10:26,240 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch63_acc86.57.pth
+2024-12-15 04:10:26,240 - INFO - 
+Epoch 64/300:
+2024-12-15 04:10:26,240 - INFO - Train Loss: 0.3651 | Train Acc: 86.57%
+2024-12-15 04:10:26,240 - INFO - Best Train Acc: 86.57%
+2024-12-15 04:10:26,240 - INFO - Learning Rate: 0.010000
+2024-12-15 04:13:00,004 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch64_acc86.78.pth
+2024-12-15 04:13:00,004 - INFO - 
+Epoch 65/300:
+2024-12-15 04:13:00,004 - INFO - Train Loss: 0.3608 | Train Acc: 86.78%
+2024-12-15 04:13:00,004 - INFO - Best Train Acc: 86.78%
+2024-12-15 04:13:00,004 - INFO - Learning Rate: 0.010000
+2024-12-15 04:15:33,777 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch65_acc87.09.pth
+2024-12-15 04:15:33,777 - INFO - 
+Epoch 66/300:
+2024-12-15 04:15:33,777 - INFO - Train Loss: 0.3511 | Train Acc: 87.09%
+2024-12-15 04:15:33,777 - INFO - Best Train Acc: 87.09%
+2024-12-15 04:15:33,777 - INFO - Learning Rate: 0.010000
+2024-12-15 04:18:07,648 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch66_acc87.24.pth
+2024-12-15 04:18:07,649 - INFO - 
+Epoch 67/300:
+2024-12-15 04:18:07,649 - INFO - Train Loss: 0.3477 | Train Acc: 87.24%
+2024-12-15 04:18:07,649 - INFO - Best Train Acc: 87.24%
+2024-12-15 04:18:07,649 - INFO - Learning Rate: 0.010000
+2024-12-15 04:20:41,450 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch67_acc87.44.pth
+2024-12-15 04:20:41,450 - INFO - 
+Epoch 68/300:
+2024-12-15 04:20:41,450 - INFO - Train Loss: 0.3409 | Train Acc: 87.44%
+2024-12-15 04:20:41,450 - INFO - Best Train Acc: 87.44%
+2024-12-15 04:20:41,450 - INFO - Learning Rate: 0.010000
+2024-12-15 04:23:15,467 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch68_acc87.69.pth
+2024-12-15 04:23:15,467 - INFO - 
+Epoch 69/300:
+2024-12-15 04:23:15,467 - INFO - Train Loss: 0.3360 | Train Acc: 87.69%
+2024-12-15 04:23:15,467 - INFO - Best Train Acc: 87.69%
+2024-12-15 04:23:15,467 - INFO - Learning Rate: 0.010000
+2024-12-15 04:25:49,355 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch69_acc87.88.pth
+2024-12-15 04:25:49,811 - INFO - 
+Epoch 70/300:
+2024-12-15 04:25:49,811 - INFO - Train Loss: 0.3289 | Train Acc: 87.88%
+2024-12-15 04:25:49,811 - INFO - Best Train Acc: 87.88%
+2024-12-15 04:25:49,811 - INFO - Learning Rate: 0.010000
+2024-12-15 04:28:23,508 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch70_acc88.00.pth
+2024-12-15 04:28:23,508 - INFO - 
+Epoch 71/300:
+2024-12-15 04:28:23,508 - INFO - Train Loss: 0.3251 | Train Acc: 88.00%
+2024-12-15 04:28:23,508 - INFO - Best Train Acc: 88.00%
+2024-12-15 04:28:23,508 - INFO - Learning Rate: 0.010000
+2024-12-15 04:30:57,441 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch71_acc88.38.pth
+2024-12-15 04:30:57,441 - INFO - 
+Epoch 72/300:
+2024-12-15 04:30:57,441 - INFO - Train Loss: 0.3157 | Train Acc: 88.38%
+2024-12-15 04:30:57,441 - INFO - Best Train Acc: 88.38%
+2024-12-15 04:30:57,442 - INFO - Learning Rate: 0.010000
+2024-12-15 04:33:30,872 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch72_acc88.61.pth
+2024-12-15 04:33:30,873 - INFO - 
+Epoch 73/300:
+2024-12-15 04:33:30,873 - INFO - Train Loss: 0.3077 | Train Acc: 88.61%
+2024-12-15 04:33:30,873 - INFO - Best Train Acc: 88.61%
+2024-12-15 04:33:30,873 - INFO - Learning Rate: 0.010000
+2024-12-15 04:36:04,383 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch73_acc88.72.pth
+2024-12-15 04:36:04,383 - INFO - 
+Epoch 74/300:
+2024-12-15 04:36:04,383 - INFO - Train Loss: 0.3070 | Train Acc: 88.72%
+2024-12-15 04:36:04,384 - INFO - Best Train Acc: 88.72%
+2024-12-15 04:36:04,384 - INFO - Learning Rate: 0.010000
+2024-12-15 04:38:37,751 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch74_acc88.93.pth
+2024-12-15 04:38:37,751 - INFO - 
+Epoch 75/300:
+2024-12-15 04:38:37,751 - INFO - Train Loss: 0.3011 | Train Acc: 88.93%
+2024-12-15 04:38:37,751 - INFO - Best Train Acc: 88.93%
+2024-12-15 04:38:37,751 - INFO - Learning Rate: 0.010000
+2024-12-15 04:41:11,203 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch75_acc89.21.pth
+2024-12-15 04:41:11,204 - INFO - 
+Epoch 76/300:
+2024-12-15 04:41:11,204 - INFO - Train Loss: 0.2937 | Train Acc: 89.21%
+2024-12-15 04:41:11,204 - INFO - Best Train Acc: 89.21%
+2024-12-15 04:41:11,204 - INFO - Learning Rate: 0.010000
+2024-12-15 04:43:44,510 - INFO - 
+Epoch 77/300:
+2024-12-15 04:43:44,510 - INFO - Train Loss: 0.2958 | Train Acc: 89.14%
+2024-12-15 04:43:44,510 - INFO - Best Train Acc: 89.21%
+2024-12-15 04:43:44,510 - INFO - Learning Rate: 0.010000
+2024-12-15 04:46:18,311 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch77_acc89.32.pth
+2024-12-15 04:46:18,311 - INFO - 
+Epoch 78/300:
+2024-12-15 04:46:18,311 - INFO - Train Loss: 0.2910 | Train Acc: 89.32%
+2024-12-15 04:46:18,311 - INFO - Best Train Acc: 89.32%
+2024-12-15 04:46:18,311 - INFO - Learning Rate: 0.010000
+2024-12-15 04:48:51,808 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch78_acc89.49.pth
+2024-12-15 04:48:51,808 - INFO - 
+Epoch 79/300:
+2024-12-15 04:48:51,809 - INFO - Train Loss: 0.2857 | Train Acc: 89.49%
+2024-12-15 04:48:51,809 - INFO - Best Train Acc: 89.49%
+2024-12-15 04:48:51,809 - INFO - Learning Rate: 0.010000
+2024-12-15 04:51:25,409 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch79_acc89.62.pth
+2024-12-15 04:51:25,700 - INFO - 
+Epoch 80/300:
+2024-12-15 04:51:25,700 - INFO - Train Loss: 0.2819 | Train Acc: 89.62%
+2024-12-15 04:51:25,700 - INFO - Best Train Acc: 89.62%
+2024-12-15 04:51:25,700 - INFO - Learning Rate: 0.010000
+2024-12-15 04:53:59,024 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch80_acc89.72.pth
+2024-12-15 04:53:59,024 - INFO - 
+Epoch 81/300:
+2024-12-15 04:53:59,024 - INFO - Train Loss: 0.2804 | Train Acc: 89.72%
+2024-12-15 04:53:59,024 - INFO - Best Train Acc: 89.72%
+2024-12-15 04:53:59,024 - INFO - Learning Rate: 0.010000
+2024-12-15 04:56:32,291 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch81_acc89.97.pth
+2024-12-15 04:56:32,291 - INFO - 
+Epoch 82/300:
+2024-12-15 04:56:32,291 - INFO - Train Loss: 0.2733 | Train Acc: 89.97%
+2024-12-15 04:56:32,291 - INFO - Best Train Acc: 89.97%
+2024-12-15 04:56:32,291 - INFO - Learning Rate: 0.010000
+2024-12-15 04:59:05,677 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch82_acc90.05.pth
+2024-12-15 04:59:05,678 - INFO - 
+Epoch 83/300:
+2024-12-15 04:59:05,678 - INFO - Train Loss: 0.2706 | Train Acc: 90.05%
+2024-12-15 04:59:05,678 - INFO - Best Train Acc: 90.05%
+2024-12-15 04:59:05,678 - INFO - Learning Rate: 0.010000
+2024-12-15 05:01:39,195 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch83_acc90.28.pth
+2024-12-15 05:01:39,196 - INFO - 
+Epoch 84/300:
+2024-12-15 05:01:39,196 - INFO - Train Loss: 0.2639 | Train Acc: 90.28%
+2024-12-15 05:01:39,196 - INFO - Best Train Acc: 90.28%
+2024-12-15 05:01:39,196 - INFO - Learning Rate: 0.010000
+2024-12-15 05:04:12,404 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch84_acc90.30.pth
+2024-12-15 05:04:12,404 - INFO - 
+Epoch 85/300:
+2024-12-15 05:04:12,404 - INFO - Train Loss: 0.2632 | Train Acc: 90.30%
+2024-12-15 05:04:12,404 - INFO - Best Train Acc: 90.30%
+2024-12-15 05:04:12,404 - INFO - Learning Rate: 0.010000
+2024-12-15 05:06:45,714 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch85_acc90.45.pth
+2024-12-15 05:06:45,714 - INFO - 
+Epoch 86/300:
+2024-12-15 05:06:45,714 - INFO - Train Loss: 0.2598 | Train Acc: 90.45%
+2024-12-15 05:06:45,714 - INFO - Best Train Acc: 90.45%
+2024-12-15 05:06:45,714 - INFO - Learning Rate: 0.010000
+2024-12-15 05:09:18,990 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch86_acc90.55.pth
+2024-12-15 05:09:18,990 - INFO - 
+Epoch 87/300:
+2024-12-15 05:09:18,990 - INFO - Train Loss: 0.2574 | Train Acc: 90.55%
+2024-12-15 05:09:18,990 - INFO - Best Train Acc: 90.55%
+2024-12-15 05:09:18,990 - INFO - Learning Rate: 0.010000
+2024-12-15 05:11:52,258 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch87_acc90.66.pth
+2024-12-15 05:11:52,259 - INFO - 
+Epoch 88/300:
+2024-12-15 05:11:52,259 - INFO - Train Loss: 0.2551 | Train Acc: 90.66%
+2024-12-15 05:11:52,259 - INFO - Best Train Acc: 90.66%
+2024-12-15 05:11:52,259 - INFO - Learning Rate: 0.010000
+2024-12-15 05:14:25,716 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch88_acc90.69.pth
+2024-12-15 05:14:25,716 - INFO - 
+Epoch 89/300:
+2024-12-15 05:14:25,716 - INFO - Train Loss: 0.2539 | Train Acc: 90.69%
+2024-12-15 05:14:25,716 - INFO - Best Train Acc: 90.69%
+2024-12-15 05:14:25,716 - INFO - Learning Rate: 0.010000
+2024-12-15 05:16:58,988 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch89_acc90.87.pth
+2024-12-15 05:16:59,264 - INFO - 
+Epoch 90/300:
+2024-12-15 05:16:59,264 - INFO - Train Loss: 0.2493 | Train Acc: 90.87%
+2024-12-15 05:16:59,264 - INFO - Best Train Acc: 90.87%
+2024-12-15 05:16:59,264 - INFO - Learning Rate: 0.010000
+2024-12-15 05:19:32,443 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch90_acc90.87.pth
+2024-12-15 05:19:32,443 - INFO - 
+Epoch 91/300:
+2024-12-15 05:19:32,443 - INFO - Train Loss: 0.2482 | Train Acc: 90.87%
+2024-12-15 05:19:32,443 - INFO - Best Train Acc: 90.87%
+2024-12-15 05:19:32,443 - INFO - Learning Rate: 0.010000
+2024-12-15 05:22:05,940 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch91_acc90.94.pth
+2024-12-15 05:22:05,940 - INFO - 
+Epoch 92/300:
+2024-12-15 05:22:05,940 - INFO - Train Loss: 0.2462 | Train Acc: 90.94%
+2024-12-15 05:22:05,940 - INFO - Best Train Acc: 90.94%
+2024-12-15 05:22:05,940 - INFO - Learning Rate: 0.010000
+2024-12-15 05:24:39,424 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch92_acc91.16.pth
+2024-12-15 05:24:39,424 - INFO - 
+Epoch 93/300:
+2024-12-15 05:24:39,424 - INFO - Train Loss: 0.2417 | Train Acc: 91.16%
+2024-12-15 05:24:39,424 - INFO - Best Train Acc: 91.16%
+2024-12-15 05:24:39,424 - INFO - Learning Rate: 0.010000
+2024-12-15 05:27:12,396 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch93_acc91.37.pth
+2024-12-15 05:27:12,396 - INFO - 
+Epoch 94/300:
+2024-12-15 05:27:12,396 - INFO - Train Loss: 0.2346 | Train Acc: 91.37%
+2024-12-15 05:27:12,397 - INFO - Best Train Acc: 91.37%
+2024-12-15 05:27:12,397 - INFO - Learning Rate: 0.010000
+2024-12-15 05:29:45,582 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch94_acc91.38.pth
+2024-12-15 05:29:45,582 - INFO - 
+Epoch 95/300:
+2024-12-15 05:29:45,582 - INFO - Train Loss: 0.2348 | Train Acc: 91.38%
+2024-12-15 05:29:45,582 - INFO - Best Train Acc: 91.38%
+2024-12-15 05:29:45,582 - INFO - Learning Rate: 0.010000
+2024-12-15 05:32:18,647 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch95_acc91.54.pth
+2024-12-15 05:32:18,648 - INFO - 
+Epoch 96/300:
+2024-12-15 05:32:18,648 - INFO - Train Loss: 0.2305 | Train Acc: 91.54%
+2024-12-15 05:32:18,648 - INFO - Best Train Acc: 91.54%
+2024-12-15 05:32:18,648 - INFO - Learning Rate: 0.010000
+2024-12-15 05:34:51,183 - INFO - 
+Epoch 97/300:
+2024-12-15 05:34:51,183 - INFO - Train Loss: 0.2317 | Train Acc: 91.50%
+2024-12-15 05:34:51,183 - INFO - Best Train Acc: 91.54%
+2024-12-15 05:34:51,184 - INFO - Learning Rate: 0.010000
+2024-12-15 05:37:24,619 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch97_acc91.59.pth
+2024-12-15 05:37:24,619 - INFO - 
+Epoch 98/300:
+2024-12-15 05:37:24,619 - INFO - Train Loss: 0.2283 | Train Acc: 91.59%
+2024-12-15 05:37:24,619 - INFO - Best Train Acc: 91.59%
+2024-12-15 05:37:24,619 - INFO - Learning Rate: 0.010000
+2024-12-15 05:39:57,957 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch98_acc91.75.pth
+2024-12-15 05:39:57,957 - INFO - 
+Epoch 99/300:
+2024-12-15 05:39:57,958 - INFO - Train Loss: 0.2237 | Train Acc: 91.75%
+2024-12-15 05:39:57,958 - INFO - Best Train Acc: 91.75%
+2024-12-15 05:39:57,958 - INFO - Learning Rate: 0.010000
+2024-12-15 05:42:31,373 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch99_acc91.80.pth
+2024-12-15 05:42:31,648 - INFO - 
+Epoch 100/300:
+2024-12-15 05:42:31,648 - INFO - Train Loss: 0.2234 | Train Acc: 91.80%
+2024-12-15 05:42:31,648 - INFO - Best Train Acc: 91.80%
+2024-12-15 05:42:31,649 - INFO - Learning Rate: 0.010000
+2024-12-15 05:45:05,003 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch100_acc91.81.pth
+2024-12-15 05:45:05,003 - INFO - 
+Epoch 101/300:
+2024-12-15 05:45:05,003 - INFO - Train Loss: 0.2223 | Train Acc: 91.81%
+2024-12-15 05:45:05,003 - INFO - Best Train Acc: 91.81%
+2024-12-15 05:45:05,003 - INFO - Learning Rate: 0.010000
+2024-12-15 05:47:38,338 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch101_acc91.97.pth
+2024-12-15 05:47:38,338 - INFO - 
+Epoch 102/300:
+2024-12-15 05:47:38,338 - INFO - Train Loss: 0.2182 | Train Acc: 91.97%
+2024-12-15 05:47:38,338 - INFO - Best Train Acc: 91.97%
+2024-12-15 05:47:38,338 - INFO - Learning Rate: 0.010000
+2024-12-15 05:50:11,200 - INFO - 
+Epoch 103/300:
+2024-12-15 05:50:11,200 - INFO - Train Loss: 0.2178 | Train Acc: 91.94%
+2024-12-15 05:50:11,200 - INFO - Best Train Acc: 91.97%
+2024-12-15 05:50:11,200 - INFO - Learning Rate: 0.010000
+2024-12-15 05:52:44,335 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch103_acc91.97.pth
+2024-12-15 05:52:44,335 - INFO - 
+Epoch 104/300:
+2024-12-15 05:52:44,335 - INFO - Train Loss: 0.2184 | Train Acc: 91.97%
+2024-12-15 05:52:44,336 - INFO - Best Train Acc: 91.97%
+2024-12-15 05:52:44,336 - INFO - Learning Rate: 0.010000
+2024-12-15 05:55:17,539 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch104_acc92.29.pth
+2024-12-15 05:55:17,540 - INFO - 
+Epoch 105/300:
+2024-12-15 05:55:17,540 - INFO - Train Loss: 0.2100 | Train Acc: 92.29%
+2024-12-15 05:55:17,540 - INFO - Best Train Acc: 92.29%
+2024-12-15 05:55:17,540 - INFO - Learning Rate: 0.010000
+2024-12-15 05:57:50,527 - INFO - 
+Epoch 106/300:
+2024-12-15 05:57:50,527 - INFO - Train Loss: 0.2117 | Train Acc: 92.19%
+2024-12-15 05:57:50,527 - INFO - Best Train Acc: 92.29%
+2024-12-15 05:57:50,527 - INFO - Learning Rate: 0.010000
+2024-12-15 06:00:24,052 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch106_acc92.37.pth
+2024-12-15 06:00:24,052 - INFO - 
+Epoch 107/300:
+2024-12-15 06:00:24,052 - INFO - Train Loss: 0.2090 | Train Acc: 92.37%
+2024-12-15 06:00:24,052 - INFO - Best Train Acc: 92.37%
+2024-12-15 06:00:24,052 - INFO - Learning Rate: 0.010000
+2024-12-15 06:02:57,390 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch107_acc92.42.pth
+2024-12-15 06:02:57,390 - INFO - 
+Epoch 108/300:
+2024-12-15 06:02:57,390 - INFO - Train Loss: 0.2069 | Train Acc: 92.42%
+2024-12-15 06:02:57,390 - INFO - Best Train Acc: 92.42%
+2024-12-15 06:02:57,390 - INFO - Learning Rate: 0.010000
+2024-12-15 06:05:30,027 - INFO - 
+Epoch 109/300:
+2024-12-15 06:05:30,027 - INFO - Train Loss: 0.2098 | Train Acc: 92.37%
+2024-12-15 06:05:30,027 - INFO - Best Train Acc: 92.42%
+2024-12-15 06:05:30,027 - INFO - Learning Rate: 0.010000
+2024-12-15 06:08:03,130 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch109_acc92.44.pth
+2024-12-15 06:08:03,409 - INFO - 
+Epoch 110/300:
+2024-12-15 06:08:03,409 - INFO - Train Loss: 0.2054 | Train Acc: 92.44%
+2024-12-15 06:08:03,409 - INFO - Best Train Acc: 92.44%
+2024-12-15 06:08:03,409 - INFO - Learning Rate: 0.010000
+2024-12-15 06:10:36,312 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch110_acc92.52.pth
+2024-12-15 06:10:36,312 - INFO - 
+Epoch 111/300:
+2024-12-15 06:10:36,312 - INFO - Train Loss: 0.2035 | Train Acc: 92.52%
+2024-12-15 06:10:36,312 - INFO - Best Train Acc: 92.52%
+2024-12-15 06:10:36,312 - INFO - Learning Rate: 0.010000
+2024-12-15 06:13:09,486 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch111_acc92.62.pth
+2024-12-15 06:13:09,486 - INFO - 
+Epoch 112/300:
+2024-12-15 06:13:09,486 - INFO - Train Loss: 0.2013 | Train Acc: 92.62%
+2024-12-15 06:13:09,487 - INFO - Best Train Acc: 92.62%
+2024-12-15 06:13:09,487 - INFO - Learning Rate: 0.010000
+2024-12-15 06:15:42,259 - INFO - 
+Epoch 113/300:
+2024-12-15 06:15:42,259 - INFO - Train Loss: 0.2011 | Train Acc: 92.61%
+2024-12-15 06:15:42,259 - INFO - Best Train Acc: 92.62%
+2024-12-15 06:15:42,259 - INFO - Learning Rate: 0.010000
+2024-12-15 06:18:15,807 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch113_acc92.73.pth
+2024-12-15 06:18:15,807 - INFO - 
+Epoch 114/300:
+2024-12-15 06:18:15,807 - INFO - Train Loss: 0.1976 | Train Acc: 92.73%
+2024-12-15 06:18:15,807 - INFO - Best Train Acc: 92.73%
+2024-12-15 06:18:15,807 - INFO - Learning Rate: 0.010000
+2024-12-15 06:20:48,849 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch114_acc92.86.pth
+2024-12-15 06:20:48,849 - INFO - 
+Epoch 115/300:
+2024-12-15 06:20:48,849 - INFO - Train Loss: 0.1939 | Train Acc: 92.86%
+2024-12-15 06:20:48,849 - INFO - Best Train Acc: 92.86%
+2024-12-15 06:20:48,849 - INFO - Learning Rate: 0.010000
+2024-12-15 06:23:21,731 - INFO - 
+Epoch 116/300:
+2024-12-15 06:23:21,731 - INFO - Train Loss: 0.1976 | Train Acc: 92.72%
+2024-12-15 06:23:21,732 - INFO - Best Train Acc: 92.86%
+2024-12-15 06:23:21,732 - INFO - Learning Rate: 0.010000
+2024-12-15 06:25:54,342 - INFO - 
+Epoch 117/300:
+2024-12-15 06:25:54,343 - INFO - Train Loss: 0.1956 | Train Acc: 92.75%
+2024-12-15 06:25:54,343 - INFO - Best Train Acc: 92.86%
+2024-12-15 06:25:54,343 - INFO - Learning Rate: 0.010000
+2024-12-15 06:28:27,235 - INFO - 
+Epoch 118/300:
+2024-12-15 06:28:27,235 - INFO - Train Loss: 0.1933 | Train Acc: 92.82%
+2024-12-15 06:28:27,235 - INFO - Best Train Acc: 92.86%
+2024-12-15 06:28:27,235 - INFO - Learning Rate: 0.010000
+2024-12-15 06:31:00,531 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch118_acc92.87.pth
+2024-12-15 06:31:00,531 - INFO - 
+Epoch 119/300:
+2024-12-15 06:31:00,531 - INFO - Train Loss: 0.1917 | Train Acc: 92.87%
+2024-12-15 06:31:00,531 - INFO - Best Train Acc: 92.87%
+2024-12-15 06:31:00,531 - INFO - Learning Rate: 0.010000
+2024-12-15 06:33:33,816 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch119_acc92.97.pth
+2024-12-15 06:33:34,238 - INFO - 
+Epoch 120/300:
+2024-12-15 06:33:34,238 - INFO - Train Loss: 0.1906 | Train Acc: 92.97%
+2024-12-15 06:33:34,238 - INFO - Best Train Acc: 92.97%
+2024-12-15 06:33:34,238 - INFO - Learning Rate: 0.010000
+2024-12-15 06:36:07,671 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch120_acc93.13.pth
+2024-12-15 06:36:07,671 - INFO - 
+Epoch 121/300:
+2024-12-15 06:36:07,671 - INFO - Train Loss: 0.1870 | Train Acc: 93.13%
+2024-12-15 06:36:07,671 - INFO - Best Train Acc: 93.13%
+2024-12-15 06:36:07,671 - INFO - Learning Rate: 0.010000
+2024-12-15 06:38:40,381 - INFO - 
+Epoch 122/300:
+2024-12-15 06:38:40,381 - INFO - Train Loss: 0.1867 | Train Acc: 93.09%
+2024-12-15 06:38:40,381 - INFO - Best Train Acc: 93.13%
+2024-12-15 06:38:40,381 - INFO - Learning Rate: 0.010000
+2024-12-15 06:41:13,865 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch122_acc93.18.pth
+2024-12-15 06:41:13,865 - INFO - 
+Epoch 123/300:
+2024-12-15 06:41:13,866 - INFO - Train Loss: 0.1839 | Train Acc: 93.18%
+2024-12-15 06:41:13,866 - INFO - Best Train Acc: 93.18%
+2024-12-15 06:41:13,866 - INFO - Learning Rate: 0.010000
+2024-12-15 06:43:46,935 - INFO - 
+Epoch 124/300:
+2024-12-15 06:43:46,935 - INFO - Train Loss: 0.1854 | Train Acc: 93.16%
+2024-12-15 06:43:46,935 - INFO - Best Train Acc: 93.18%
+2024-12-15 06:43:46,935 - INFO - Learning Rate: 0.010000
+2024-12-15 06:46:20,155 - INFO - 
+Epoch 125/300:
+2024-12-15 06:46:20,155 - INFO - Train Loss: 0.1845 | Train Acc: 93.16%
+2024-12-15 06:46:20,155 - INFO - Best Train Acc: 93.18%
+2024-12-15 06:46:20,155 - INFO - Learning Rate: 0.010000
+2024-12-15 06:48:53,709 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch125_acc93.23.pth
+2024-12-15 06:48:53,709 - INFO - 
+Epoch 126/300:
+2024-12-15 06:48:53,709 - INFO - Train Loss: 0.1827 | Train Acc: 93.23%
+2024-12-15 06:48:53,709 - INFO - Best Train Acc: 93.23%
+2024-12-15 06:48:53,709 - INFO - Learning Rate: 0.010000
+2024-12-15 06:51:27,269 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch126_acc93.25.pth
+2024-12-15 06:51:27,269 - INFO - 
+Epoch 127/300:
+2024-12-15 06:51:27,269 - INFO - Train Loss: 0.1834 | Train Acc: 93.25%
+2024-12-15 06:51:27,269 - INFO - Best Train Acc: 93.25%
+2024-12-15 06:51:27,269 - INFO - Learning Rate: 0.010000
+2024-12-15 06:54:00,449 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch127_acc93.30.pth
+2024-12-15 06:54:00,449 - INFO - 
+Epoch 128/300:
+2024-12-15 06:54:00,449 - INFO - Train Loss: 0.1806 | Train Acc: 93.30%
+2024-12-15 06:54:00,449 - INFO - Best Train Acc: 93.30%
+2024-12-15 06:54:00,449 - INFO - Learning Rate: 0.010000
+2024-12-15 06:56:33,659 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch128_acc93.39.pth
+2024-12-15 06:56:33,659 - INFO - 
+Epoch 129/300:
+2024-12-15 06:56:33,659 - INFO - Train Loss: 0.1783 | Train Acc: 93.39%
+2024-12-15 06:56:33,659 - INFO - Best Train Acc: 93.39%
+2024-12-15 06:56:33,659 - INFO - Learning Rate: 0.010000
+2024-12-15 06:59:06,739 - INFO - 
+Epoch 130/300:
+2024-12-15 06:59:06,739 - INFO - Train Loss: 0.1812 | Train Acc: 93.34%
+2024-12-15 06:59:06,739 - INFO - Best Train Acc: 93.39%
+2024-12-15 06:59:06,739 - INFO - Learning Rate: 0.010000
+2024-12-15 07:01:40,335 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch130_acc93.40.pth
+2024-12-15 07:01:40,335 - INFO - 
+Epoch 131/300:
+2024-12-15 07:01:40,335 - INFO - Train Loss: 0.1774 | Train Acc: 93.40%
+2024-12-15 07:01:40,335 - INFO - Best Train Acc: 93.40%
+2024-12-15 07:01:40,335 - INFO - Learning Rate: 0.010000
+2024-12-15 07:04:13,867 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch131_acc93.52.pth
+2024-12-15 07:04:13,867 - INFO - 
+Epoch 132/300:
+2024-12-15 07:04:13,867 - INFO - Train Loss: 0.1760 | Train Acc: 93.52%
+2024-12-15 07:04:13,867 - INFO - Best Train Acc: 93.52%
+2024-12-15 07:04:13,867 - INFO - Learning Rate: 0.010000
+2024-12-15 07:06:47,366 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch132_acc93.52.pth
+2024-12-15 07:06:47,366 - INFO - 
+Epoch 133/300:
+2024-12-15 07:06:47,366 - INFO - Train Loss: 0.1767 | Train Acc: 93.52%
+2024-12-15 07:06:47,366 - INFO - Best Train Acc: 93.52%
+2024-12-15 07:06:47,366 - INFO - Learning Rate: 0.010000
+2024-12-15 07:09:20,874 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch133_acc93.55.pth
+2024-12-15 07:09:20,874 - INFO - 
+Epoch 134/300:
+2024-12-15 07:09:20,874 - INFO - Train Loss: 0.1754 | Train Acc: 93.55%
+2024-12-15 07:09:20,874 - INFO - Best Train Acc: 93.55%
+2024-12-15 07:09:20,874 - INFO - Learning Rate: 0.010000
+2024-12-15 07:11:54,264 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch134_acc93.63.pth
+2024-12-15 07:11:54,265 - INFO - 
+Epoch 135/300:
+2024-12-15 07:11:54,265 - INFO - Train Loss: 0.1719 | Train Acc: 93.63%
+2024-12-15 07:11:54,265 - INFO - Best Train Acc: 93.63%
+2024-12-15 07:11:54,265 - INFO - Learning Rate: 0.010000
+2024-12-15 07:14:27,495 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch135_acc93.68.pth
+2024-12-15 07:14:27,495 - INFO - 
+Epoch 136/300:
+2024-12-15 07:14:27,495 - INFO - Train Loss: 0.1713 | Train Acc: 93.68%
+2024-12-15 07:14:27,495 - INFO - Best Train Acc: 93.68%
+2024-12-15 07:14:27,495 - INFO - Learning Rate: 0.010000
+2024-12-15 07:17:00,314 - INFO - 
+Epoch 137/300:
+2024-12-15 07:17:00,314 - INFO - Train Loss: 0.1744 | Train Acc: 93.55%
+2024-12-15 07:17:00,314 - INFO - Best Train Acc: 93.68%
+2024-12-15 07:17:00,315 - INFO - Learning Rate: 0.010000
+2024-12-15 07:19:33,215 - INFO - 
+Epoch 138/300:
+2024-12-15 07:19:33,216 - INFO - Train Loss: 0.1730 | Train Acc: 93.64%
+2024-12-15 07:19:33,216 - INFO - Best Train Acc: 93.68%
+2024-12-15 07:19:33,216 - INFO - Learning Rate: 0.010000
+2024-12-15 07:22:06,825 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch138_acc93.71.pth
+2024-12-15 07:22:06,825 - INFO - 
+Epoch 139/300:
+2024-12-15 07:22:06,825 - INFO - Train Loss: 0.1687 | Train Acc: 93.71%
+2024-12-15 07:22:06,825 - INFO - Best Train Acc: 93.71%
+2024-12-15 07:22:06,825 - INFO - Learning Rate: 0.010000
+2024-12-15 07:24:40,159 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch139_acc93.90.pth
+2024-12-15 07:24:40,454 - INFO - 
+Epoch 140/300:
+2024-12-15 07:24:40,455 - INFO - Train Loss: 0.1654 | Train Acc: 93.90%
+2024-12-15 07:24:40,455 - INFO - Best Train Acc: 93.90%
+2024-12-15 07:24:40,455 - INFO - Learning Rate: 0.010000
+2024-12-15 07:27:13,203 - INFO - 
+Epoch 141/300:
+2024-12-15 07:27:13,203 - INFO - Train Loss: 0.1678 | Train Acc: 93.78%
+2024-12-15 07:27:13,204 - INFO - Best Train Acc: 93.90%
+2024-12-15 07:27:13,204 - INFO - Learning Rate: 0.010000
+2024-12-15 07:29:45,901 - INFO - 
+Epoch 142/300:
+2024-12-15 07:29:45,901 - INFO - Train Loss: 0.1656 | Train Acc: 93.90%
+2024-12-15 07:29:45,901 - INFO - Best Train Acc: 93.90%
+2024-12-15 07:29:45,901 - INFO - Learning Rate: 0.010000
+2024-12-15 07:32:19,307 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch142_acc93.92.pth
+2024-12-15 07:32:19,307 - INFO - 
+Epoch 143/300:
+2024-12-15 07:32:19,307 - INFO - Train Loss: 0.1650 | Train Acc: 93.92%
+2024-12-15 07:32:19,307 - INFO - Best Train Acc: 93.92%
+2024-12-15 07:32:19,307 - INFO - Learning Rate: 0.010000
+2024-12-15 07:34:52,115 - INFO - 
+Epoch 144/300:
+2024-12-15 07:34:52,115 - INFO - Train Loss: 0.1668 | Train Acc: 93.77%
+2024-12-15 07:34:52,115 - INFO - Best Train Acc: 93.92%
+2024-12-15 07:34:52,115 - INFO - Learning Rate: 0.010000
+2024-12-15 07:37:24,810 - INFO - 
+Epoch 145/300:
+2024-12-15 07:37:24,810 - INFO - Train Loss: 0.1642 | Train Acc: 93.90%
+2024-12-15 07:37:24,810 - INFO - Best Train Acc: 93.92%
+2024-12-15 07:37:24,811 - INFO - Learning Rate: 0.010000
+2024-12-15 07:39:57,739 - INFO - 
+Epoch 146/300:
+2024-12-15 07:39:57,739 - INFO - Train Loss: 0.1644 | Train Acc: 93.91%
+2024-12-15 07:39:57,740 - INFO - Best Train Acc: 93.92%
+2024-12-15 07:39:57,740 - INFO - Learning Rate: 0.010000
+2024-12-15 07:42:30,490 - INFO - 
+Epoch 147/300:
+2024-12-15 07:42:30,491 - INFO - Train Loss: 0.1662 | Train Acc: 93.79%
+2024-12-15 07:42:30,491 - INFO - Best Train Acc: 93.92%
+2024-12-15 07:42:30,491 - INFO - Learning Rate: 0.010000
+2024-12-15 07:45:03,285 - INFO - 
+Epoch 148/300:
+2024-12-15 07:45:03,285 - INFO - Train Loss: 0.1662 | Train Acc: 93.86%
+2024-12-15 07:45:03,285 - INFO - Best Train Acc: 93.92%
+2024-12-15 07:45:03,285 - INFO - Learning Rate: 0.010000
+2024-12-15 07:47:36,705 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch148_acc94.11.pth
+2024-12-15 07:47:36,705 - INFO - 
+Epoch 149/300:
+2024-12-15 07:47:36,705 - INFO - Train Loss: 0.1589 | Train Acc: 94.11%
+2024-12-15 07:47:36,705 - INFO - Best Train Acc: 94.11%
+2024-12-15 07:47:36,705 - INFO - Learning Rate: 0.010000
+2024-12-15 07:50:09,828 - INFO - 
+Epoch 150/300:
+2024-12-15 07:50:09,828 - INFO - Train Loss: 0.1617 | Train Acc: 93.95%
+2024-12-15 07:50:09,828 - INFO - Best Train Acc: 94.11%
+2024-12-15 07:50:09,828 - INFO - Learning Rate: 0.010000
+2024-12-15 07:52:42,541 - INFO - 
+Epoch 151/300:
+2024-12-15 07:52:42,542 - INFO - Train Loss: 0.1593 | Train Acc: 94.07%
+2024-12-15 07:52:42,542 - INFO - Best Train Acc: 94.11%
+2024-12-15 07:52:42,542 - INFO - Learning Rate: 0.010000
+2024-12-15 07:55:15,875 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch151_acc94.14.pth
+2024-12-15 07:55:15,876 - INFO - 
+Epoch 152/300:
+2024-12-15 07:55:15,876 - INFO - Train Loss: 0.1576 | Train Acc: 94.14%
+2024-12-15 07:55:15,876 - INFO - Best Train Acc: 94.14%
+2024-12-15 07:55:15,876 - INFO - Learning Rate: 0.010000
+2024-12-15 07:57:49,052 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch152_acc94.16.pth
+2024-12-15 07:57:49,052 - INFO - 
+Epoch 153/300:
+2024-12-15 07:57:49,052 - INFO - Train Loss: 0.1572 | Train Acc: 94.16%
+2024-12-15 07:57:49,052 - INFO - Best Train Acc: 94.16%
+2024-12-15 07:57:49,052 - INFO - Learning Rate: 0.010000
+2024-12-15 08:00:21,888 - INFO - 
+Epoch 154/300:
+2024-12-15 08:00:21,888 - INFO - Train Loss: 0.1586 | Train Acc: 94.10%
+2024-12-15 08:00:21,888 - INFO - Best Train Acc: 94.16%
+2024-12-15 08:00:21,888 - INFO - Learning Rate: 0.010000
+2024-12-15 08:02:55,442 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch154_acc94.18.pth
+2024-12-15 08:02:55,443 - INFO - 
+Epoch 155/300:
+2024-12-15 08:02:55,443 - INFO - Train Loss: 0.1566 | Train Acc: 94.18%
+2024-12-15 08:02:55,443 - INFO - Best Train Acc: 94.18%
+2024-12-15 08:02:55,443 - INFO - Learning Rate: 0.010000
+2024-12-15 08:05:29,039 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch155_acc94.19.pth
+2024-12-15 08:05:29,039 - INFO - 
+Epoch 156/300:
+2024-12-15 08:05:29,039 - INFO - Train Loss: 0.1562 | Train Acc: 94.19%
+2024-12-15 08:05:29,039 - INFO - Best Train Acc: 94.19%
+2024-12-15 08:05:29,039 - INFO - Learning Rate: 0.010000
+2024-12-15 08:08:01,775 - INFO - 
+Epoch 157/300:
+2024-12-15 08:08:01,775 - INFO - Train Loss: 0.1560 | Train Acc: 94.15%
+2024-12-15 08:08:01,775 - INFO - Best Train Acc: 94.19%
+2024-12-15 08:08:01,775 - INFO - Learning Rate: 0.010000
+2024-12-15 08:10:34,673 - INFO - 
+Epoch 158/300:
+2024-12-15 08:10:34,673 - INFO - Train Loss: 0.1566 | Train Acc: 94.19%
+2024-12-15 08:10:34,673 - INFO - Best Train Acc: 94.19%
+2024-12-15 08:10:34,673 - INFO - Learning Rate: 0.010000
+2024-12-15 08:13:08,165 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch158_acc94.32.pth
+2024-12-15 08:13:08,165 - INFO - 
+Epoch 159/300:
+2024-12-15 08:13:08,165 - INFO - Train Loss: 0.1521 | Train Acc: 94.32%
+2024-12-15 08:13:08,165 - INFO - Best Train Acc: 94.32%
+2024-12-15 08:13:08,165 - INFO - Learning Rate: 0.010000
+2024-12-15 08:15:41,216 - INFO - 
+Epoch 160/300:
+2024-12-15 08:15:41,216 - INFO - Train Loss: 0.1556 | Train Acc: 94.25%
+2024-12-15 08:15:41,216 - INFO - Best Train Acc: 94.32%
+2024-12-15 08:15:41,216 - INFO - Learning Rate: 0.010000
+2024-12-15 08:18:14,563 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch160_acc94.39.pth
+2024-12-15 08:18:14,563 - INFO - 
+Epoch 161/300:
+2024-12-15 08:18:14,563 - INFO - Train Loss: 0.1517 | Train Acc: 94.39%
+2024-12-15 08:18:14,563 - INFO - Best Train Acc: 94.39%
+2024-12-15 08:18:14,564 - INFO - Learning Rate: 0.010000
+2024-12-15 08:20:47,590 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch161_acc94.42.pth
+2024-12-15 08:20:47,590 - INFO - 
+Epoch 162/300:
+2024-12-15 08:20:47,590 - INFO - Train Loss: 0.1513 | Train Acc: 94.42%
+2024-12-15 08:20:47,590 - INFO - Best Train Acc: 94.42%
+2024-12-15 08:20:47,590 - INFO - Learning Rate: 0.010000
+2024-12-15 08:23:20,403 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch162_acc94.45.pth
+2024-12-15 08:23:20,404 - INFO - 
+Epoch 163/300:
+2024-12-15 08:23:20,404 - INFO - Train Loss: 0.1492 | Train Acc: 94.45%
+2024-12-15 08:23:20,404 - INFO - Best Train Acc: 94.45%
+2024-12-15 08:23:20,404 - INFO - Learning Rate: 0.010000
+2024-12-15 08:25:53,220 - INFO - 
+Epoch 164/300:
+2024-12-15 08:25:53,220 - INFO - Train Loss: 0.1526 | Train Acc: 94.32%
+2024-12-15 08:25:53,220 - INFO - Best Train Acc: 94.45%
+2024-12-15 08:25:53,220 - INFO - Learning Rate: 0.010000
+2024-12-15 08:28:25,731 - INFO - 
+Epoch 165/300:
+2024-12-15 08:28:25,731 - INFO - Train Loss: 0.1520 | Train Acc: 94.35%
+2024-12-15 08:28:25,731 - INFO - Best Train Acc: 94.45%
+2024-12-15 08:28:25,731 - INFO - Learning Rate: 0.010000
+2024-12-15 08:30:58,183 - INFO - 
+Epoch 166/300:
+2024-12-15 08:30:58,183 - INFO - Train Loss: 0.1514 | Train Acc: 94.37%
+2024-12-15 08:30:58,183 - INFO - Best Train Acc: 94.45%
+2024-12-15 08:30:58,183 - INFO - Learning Rate: 0.010000
+2024-12-15 08:33:30,665 - INFO - 
+Epoch 167/300:
+2024-12-15 08:33:30,665 - INFO - Train Loss: 0.1497 | Train Acc: 94.39%
+2024-12-15 08:33:30,665 - INFO - Best Train Acc: 94.45%
+2024-12-15 08:33:30,665 - INFO - Learning Rate: 0.010000
+2024-12-15 08:36:03,166 - INFO - 
+Epoch 168/300:
+2024-12-15 08:36:03,166 - INFO - Train Loss: 0.1505 | Train Acc: 94.43%
+2024-12-15 08:36:03,166 - INFO - Best Train Acc: 94.45%
+2024-12-15 08:36:03,166 - INFO - Learning Rate: 0.010000
+2024-12-15 08:38:36,457 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch168_acc94.45.pth
+2024-12-15 08:38:36,457 - INFO - 
+Epoch 169/300:
+2024-12-15 08:38:36,457 - INFO - Train Loss: 0.1489 | Train Acc: 94.45%
+2024-12-15 08:38:36,457 - INFO - Best Train Acc: 94.45%
+2024-12-15 08:38:36,457 - INFO - Learning Rate: 0.007500
+2024-12-15 08:41:11,402 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch169_acc95.03.pth
+2024-12-15 08:41:11,719 - INFO - 
+Epoch 170/300:
+2024-12-15 08:41:11,719 - INFO - Train Loss: 0.1352 | Train Acc: 95.03%
+2024-12-15 08:41:11,719 - INFO - Best Train Acc: 95.03%
+2024-12-15 08:41:11,719 - INFO - Learning Rate: 0.007500
+2024-12-15 08:43:49,402 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch170_acc95.18.pth
+2024-12-15 08:43:49,402 - INFO - 
+Epoch 171/300:
+2024-12-15 08:43:49,402 - INFO - Train Loss: 0.1285 | Train Acc: 95.18%
+2024-12-15 08:43:49,402 - INFO - Best Train Acc: 95.18%
+2024-12-15 08:43:49,402 - INFO - Learning Rate: 0.007500
+2024-12-15 08:46:35,191 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch171_acc95.26.pth
+2024-12-15 08:46:35,191 - INFO - 
+Epoch 172/300:
+2024-12-15 08:46:35,191 - INFO - Train Loss: 0.1256 | Train Acc: 95.26%
+2024-12-15 08:46:35,191 - INFO - Best Train Acc: 95.26%
+2024-12-15 08:46:35,191 - INFO - Learning Rate: 0.007500
+2024-12-15 08:49:17,442 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch172_acc95.31.pth
+2024-12-15 08:49:17,443 - INFO - 
+Epoch 173/300:
+2024-12-15 08:49:17,443 - INFO - Train Loss: 0.1254 | Train Acc: 95.31%
+2024-12-15 08:49:17,443 - INFO - Best Train Acc: 95.31%
+2024-12-15 08:49:17,443 - INFO - Learning Rate: 0.007500
+2024-12-15 08:52:16,330 - INFO - 
+Epoch 174/300:
+2024-12-15 08:52:16,368 - INFO - Train Loss: 0.1260 | Train Acc: 95.28%
+2024-12-15 08:52:16,369 - INFO - Best Train Acc: 95.31%
+2024-12-15 08:52:16,369 - INFO - Learning Rate: 0.007500
+2024-12-15 08:55:03,217 - INFO - 
+Epoch 175/300:
+2024-12-15 08:55:03,217 - INFO - Train Loss: 0.1247 | Train Acc: 95.31%
+2024-12-15 08:55:03,217 - INFO - Best Train Acc: 95.31%
+2024-12-15 08:55:03,217 - INFO - Learning Rate: 0.007500
+2024-12-15 08:57:50,092 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch175_acc95.49.pth
+2024-12-15 08:57:50,092 - INFO - 
+Epoch 176/300:
+2024-12-15 08:57:50,092 - INFO - Train Loss: 0.1215 | Train Acc: 95.49%
+2024-12-15 08:57:50,093 - INFO - Best Train Acc: 95.49%
+2024-12-15 08:57:50,093 - INFO - Learning Rate: 0.007500
+2024-12-15 09:00:47,098 - INFO - 
+Epoch 177/300:
+2024-12-15 09:00:47,098 - INFO - Train Loss: 0.1217 | Train Acc: 95.43%
+2024-12-15 09:00:47,098 - INFO - Best Train Acc: 95.49%
+2024-12-15 09:00:47,099 - INFO - Learning Rate: 0.007500
+2024-12-15 09:03:27,678 - INFO - 
+Epoch 178/300:
+2024-12-15 09:03:27,679 - INFO - Train Loss: 0.1240 | Train Acc: 95.37%
+2024-12-15 09:03:27,679 - INFO - Best Train Acc: 95.49%
+2024-12-15 09:03:27,679 - INFO - Learning Rate: 0.007500
+2024-12-15 09:06:02,566 - INFO - 
+Epoch 179/300:
+2024-12-15 09:06:02,566 - INFO - Train Loss: 0.1204 | Train Acc: 95.48%
+2024-12-15 09:06:02,566 - INFO - Best Train Acc: 95.49%
+2024-12-15 09:06:02,566 - INFO - Learning Rate: 0.007500
+2024-12-15 09:08:36,256 - INFO - 
+Epoch 180/300:
+2024-12-15 09:08:36,256 - INFO - Train Loss: 0.1210 | Train Acc: 95.46%
+2024-12-15 09:08:36,256 - INFO - Best Train Acc: 95.49%
+2024-12-15 09:08:36,256 - INFO - Learning Rate: 0.007500
+2024-12-15 09:11:09,535 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch180_acc95.61.pth
+2024-12-15 09:11:09,535 - INFO - 
+Epoch 181/300:
+2024-12-15 09:11:09,535 - INFO - Train Loss: 0.1185 | Train Acc: 95.61%
+2024-12-15 09:11:09,535 - INFO - Best Train Acc: 95.61%
+2024-12-15 09:11:09,535 - INFO - Learning Rate: 0.007500
+2024-12-15 09:13:42,077 - INFO - 
+Epoch 182/300:
+2024-12-15 09:13:42,077 - INFO - Train Loss: 0.1218 | Train Acc: 95.40%
+2024-12-15 09:13:42,077 - INFO - Best Train Acc: 95.61%
+2024-12-15 09:13:42,077 - INFO - Learning Rate: 0.007500
+2024-12-15 09:16:14,474 - INFO - 
+Epoch 183/300:
+2024-12-15 09:16:14,475 - INFO - Train Loss: 0.1199 | Train Acc: 95.48%
+2024-12-15 09:16:14,475 - INFO - Best Train Acc: 95.61%
+2024-12-15 09:16:14,475 - INFO - Learning Rate: 0.007500
+2024-12-15 09:18:46,837 - INFO - 
+Epoch 184/300:
+2024-12-15 09:18:46,837 - INFO - Train Loss: 0.1200 | Train Acc: 95.54%
+2024-12-15 09:18:46,837 - INFO - Best Train Acc: 95.61%
+2024-12-15 09:18:46,837 - INFO - Learning Rate: 0.007500
+2024-12-15 09:21:19,465 - INFO - 
+Epoch 185/300:
+2024-12-15 09:21:19,465 - INFO - Train Loss: 0.1200 | Train Acc: 95.53%
+2024-12-15 09:21:19,465 - INFO - Best Train Acc: 95.61%
+2024-12-15 09:21:19,465 - INFO - Learning Rate: 0.007500
+2024-12-15 09:23:52,373 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch185_acc95.64.pth
+2024-12-15 09:23:52,373 - INFO - 
+Epoch 186/300:
+2024-12-15 09:23:52,373 - INFO - Train Loss: 0.1170 | Train Acc: 95.64%
+2024-12-15 09:23:52,373 - INFO - Best Train Acc: 95.64%
+2024-12-15 09:23:52,373 - INFO - Learning Rate: 0.007500
+2024-12-15 09:26:24,789 - INFO - 
+Epoch 187/300:
+2024-12-15 09:26:24,789 - INFO - Train Loss: 0.1173 | Train Acc: 95.62%
+2024-12-15 09:26:24,789 - INFO - Best Train Acc: 95.64%
+2024-12-15 09:26:24,789 - INFO - Learning Rate: 0.007500
+2024-12-15 09:28:57,155 - INFO - 
+Epoch 188/300:
+2024-12-15 09:28:57,155 - INFO - Train Loss: 0.1187 | Train Acc: 95.51%
+2024-12-15 09:28:57,155 - INFO - Best Train Acc: 95.64%
+2024-12-15 09:28:57,155 - INFO - Learning Rate: 0.007500
+2024-12-15 09:31:29,322 - INFO - 
+Epoch 189/300:
+2024-12-15 09:31:29,322 - INFO - Train Loss: 0.1178 | Train Acc: 95.58%
+2024-12-15 09:31:29,322 - INFO - Best Train Acc: 95.64%
+2024-12-15 09:31:29,322 - INFO - Learning Rate: 0.007500
+2024-12-15 09:34:01,946 - INFO - 
+Epoch 190/300:
+2024-12-15 09:34:01,946 - INFO - Train Loss: 0.1173 | Train Acc: 95.57%
+2024-12-15 09:34:01,946 - INFO - Best Train Acc: 95.64%
+2024-12-15 09:34:01,946 - INFO - Learning Rate: 0.007500
+2024-12-15 09:36:33,661 - INFO - 
+Epoch 191/300:
+2024-12-15 09:36:33,661 - INFO - Train Loss: 0.1191 | Train Acc: 95.56%
+2024-12-15 09:36:33,662 - INFO - Best Train Acc: 95.64%
+2024-12-15 09:36:33,662 - INFO - Learning Rate: 0.007500
+2024-12-15 09:39:05,928 - INFO - 
+Epoch 192/300:
+2024-12-15 09:39:05,928 - INFO - Train Loss: 0.1177 | Train Acc: 95.55%
+2024-12-15 09:39:05,928 - INFO - Best Train Acc: 95.64%
+2024-12-15 09:39:05,928 - INFO - Learning Rate: 0.005625
+2024-12-15 09:41:38,513 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch192_acc95.99.pth
+2024-12-15 09:41:38,513 - INFO - 
+Epoch 193/300:
+2024-12-15 09:41:38,514 - INFO - Train Loss: 0.1072 | Train Acc: 95.99%
+2024-12-15 09:41:38,514 - INFO - Best Train Acc: 95.99%
+2024-12-15 09:41:38,514 - INFO - Learning Rate: 0.005625
+2024-12-15 09:44:11,223 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch193_acc96.13.pth
+2024-12-15 09:44:11,223 - INFO - 
+Epoch 194/300:
+2024-12-15 09:44:11,223 - INFO - Train Loss: 0.1032 | Train Acc: 96.13%
+2024-12-15 09:44:11,223 - INFO - Best Train Acc: 96.13%
+2024-12-15 09:44:11,223 - INFO - Learning Rate: 0.005625
+2024-12-15 09:46:43,142 - INFO - 
+Epoch 195/300:
+2024-12-15 09:46:43,142 - INFO - Train Loss: 0.1060 | Train Acc: 95.99%
+2024-12-15 09:46:43,142 - INFO - Best Train Acc: 96.13%
+2024-12-15 09:46:43,142 - INFO - Learning Rate: 0.005625
+2024-12-15 09:49:15,403 - INFO - 
+Epoch 196/300:
+2024-12-15 09:49:15,403 - INFO - Train Loss: 0.1054 | Train Acc: 95.99%
+2024-12-15 09:49:15,403 - INFO - Best Train Acc: 96.13%
+2024-12-15 09:49:15,403 - INFO - Learning Rate: 0.005625
+2024-12-15 09:51:48,359 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch196_acc96.18.pth
+2024-12-15 09:51:48,397 - INFO - 
+Epoch 197/300:
+2024-12-15 09:51:48,397 - INFO - Train Loss: 0.1021 | Train Acc: 96.18%
+2024-12-15 09:51:48,397 - INFO - Best Train Acc: 96.18%
+2024-12-15 09:51:48,397 - INFO - Learning Rate: 0.005625
+2024-12-15 09:54:20,781 - INFO - 
+Epoch 198/300:
+2024-12-15 09:54:20,781 - INFO - Train Loss: 0.1024 | Train Acc: 96.12%
+2024-12-15 09:54:20,781 - INFO - Best Train Acc: 96.18%
+2024-12-15 09:54:20,781 - INFO - Learning Rate: 0.005625
+2024-12-15 09:56:52,896 - INFO - 
+Epoch 199/300:
+2024-12-15 09:56:52,896 - INFO - Train Loss: 0.1020 | Train Acc: 96.15%
+2024-12-15 09:56:52,896 - INFO - Best Train Acc: 96.18%
+2024-12-15 09:56:52,896 - INFO - Learning Rate: 0.005625
+2024-12-15 09:59:25,292 - INFO - 
+Epoch 200/300:
+2024-12-15 09:59:25,293 - INFO - Train Loss: 0.1015 | Train Acc: 96.17%
+2024-12-15 09:59:25,293 - INFO - Best Train Acc: 96.18%
+2024-12-15 09:59:25,293 - INFO - Learning Rate: 0.005625
+2024-12-15 10:01:57,891 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch200_acc96.19.pth
+2024-12-15 10:01:57,891 - INFO - 
+Epoch 201/300:
+2024-12-15 10:01:57,891 - INFO - Train Loss: 0.1017 | Train Acc: 96.19%
+2024-12-15 10:01:57,891 - INFO - Best Train Acc: 96.19%
+2024-12-15 10:01:57,891 - INFO - Learning Rate: 0.005625
+2024-12-15 10:04:29,999 - INFO - 
+Epoch 202/300:
+2024-12-15 10:04:29,999 - INFO - Train Loss: 0.1015 | Train Acc: 96.18%
+2024-12-15 10:04:29,999 - INFO - Best Train Acc: 96.19%
+2024-12-15 10:04:29,999 - INFO - Learning Rate: 0.005625
+2024-12-15 10:07:02,850 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch202_acc96.20.pth
+2024-12-15 10:07:02,850 - INFO - 
+Epoch 203/300:
+2024-12-15 10:07:02,850 - INFO - Train Loss: 0.1004 | Train Acc: 96.20%
+2024-12-15 10:07:02,850 - INFO - Best Train Acc: 96.20%
+2024-12-15 10:07:02,850 - INFO - Learning Rate: 0.005625
+2024-12-15 10:09:35,221 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch203_acc96.22.pth
+2024-12-15 10:09:35,221 - INFO - 
+Epoch 204/300:
+2024-12-15 10:09:35,221 - INFO - Train Loss: 0.0998 | Train Acc: 96.22%
+2024-12-15 10:09:35,221 - INFO - Best Train Acc: 96.22%
+2024-12-15 10:09:35,221 - INFO - Learning Rate: 0.005625
+2024-12-15 10:12:07,814 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch204_acc96.26.pth
+2024-12-15 10:12:07,852 - INFO - 
+Epoch 205/300:
+2024-12-15 10:12:07,852 - INFO - Train Loss: 0.1002 | Train Acc: 96.26%
+2024-12-15 10:12:07,853 - INFO - Best Train Acc: 96.26%
+2024-12-15 10:12:07,853 - INFO - Learning Rate: 0.005625
+2024-12-15 10:14:40,635 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch205_acc96.28.pth
+2024-12-15 10:14:40,636 - INFO - 
+Epoch 206/300:
+2024-12-15 10:14:40,636 - INFO - Train Loss: 0.0983 | Train Acc: 96.28%
+2024-12-15 10:14:40,636 - INFO - Best Train Acc: 96.28%
+2024-12-15 10:14:40,636 - INFO - Learning Rate: 0.005625
+2024-12-15 10:17:13,618 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch206_acc96.28.pth
+2024-12-15 10:17:13,618 - INFO - 
+Epoch 207/300:
+2024-12-15 10:17:13,619 - INFO - Train Loss: 0.0983 | Train Acc: 96.28%
+2024-12-15 10:17:13,619 - INFO - Best Train Acc: 96.28%
+2024-12-15 10:17:13,619 - INFO - Learning Rate: 0.005625
+2024-12-15 10:19:45,967 - INFO - 
+Epoch 208/300:
+2024-12-15 10:19:45,967 - INFO - Train Loss: 0.0994 | Train Acc: 96.22%
+2024-12-15 10:19:45,967 - INFO - Best Train Acc: 96.28%
+2024-12-15 10:19:45,967 - INFO - Learning Rate: 0.005625
+2024-12-15 10:22:18,146 - INFO - 
+Epoch 209/300:
+2024-12-15 10:22:18,146 - INFO - Train Loss: 0.1005 | Train Acc: 96.18%
+2024-12-15 10:22:18,146 - INFO - Best Train Acc: 96.28%
+2024-12-15 10:22:18,146 - INFO - Learning Rate: 0.005625
+2024-12-15 10:24:50,936 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch209_acc96.40.pth
+2024-12-15 10:24:51,198 - INFO - 
+Epoch 210/300:
+2024-12-15 10:24:51,198 - INFO - Train Loss: 0.0956 | Train Acc: 96.40%
+2024-12-15 10:24:51,198 - INFO - Best Train Acc: 96.40%
+2024-12-15 10:24:51,198 - INFO - Learning Rate: 0.005625
+2024-12-15 10:27:23,320 - INFO - 
+Epoch 211/300:
+2024-12-15 10:27:23,321 - INFO - Train Loss: 0.0966 | Train Acc: 96.34%
+2024-12-15 10:27:23,321 - INFO - Best Train Acc: 96.40%
+2024-12-15 10:27:23,321 - INFO - Learning Rate: 0.005625
+2024-12-15 10:29:55,580 - INFO - 
+Epoch 212/300:
+2024-12-15 10:29:55,580 - INFO - Train Loss: 0.0986 | Train Acc: 96.26%
+2024-12-15 10:29:55,580 - INFO - Best Train Acc: 96.40%
+2024-12-15 10:29:55,580 - INFO - Learning Rate: 0.005625
+2024-12-15 10:32:27,844 - INFO - 
+Epoch 213/300:
+2024-12-15 10:32:27,844 - INFO - Train Loss: 0.0979 | Train Acc: 96.31%
+2024-12-15 10:32:27,844 - INFO - Best Train Acc: 96.40%
+2024-12-15 10:32:27,844 - INFO - Learning Rate: 0.005625
+2024-12-15 10:34:59,986 - INFO - 
+Epoch 214/300:
+2024-12-15 10:34:59,986 - INFO - Train Loss: 0.0983 | Train Acc: 96.27%
+2024-12-15 10:34:59,986 - INFO - Best Train Acc: 96.40%
+2024-12-15 10:34:59,986 - INFO - Learning Rate: 0.005625
+2024-12-15 10:37:32,252 - INFO - 
+Epoch 215/300:
+2024-12-15 10:37:32,253 - INFO - Train Loss: 0.0969 | Train Acc: 96.32%
+2024-12-15 10:37:32,253 - INFO - Best Train Acc: 96.40%
+2024-12-15 10:37:32,253 - INFO - Learning Rate: 0.005625
+2024-12-15 10:40:04,332 - INFO - 
+Epoch 216/300:
+2024-12-15 10:40:04,332 - INFO - Train Loss: 0.0982 | Train Acc: 96.27%
+2024-12-15 10:40:04,332 - INFO - Best Train Acc: 96.40%
+2024-12-15 10:40:04,332 - INFO - Learning Rate: 0.004219
+2024-12-15 10:42:37,030 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch216_acc96.45.pth
+2024-12-15 10:42:37,030 - INFO - 
+Epoch 217/300:
+2024-12-15 10:42:37,030 - INFO - Train Loss: 0.0936 | Train Acc: 96.45%
+2024-12-15 10:42:37,030 - INFO - Best Train Acc: 96.45%
+2024-12-15 10:42:37,030 - INFO - Learning Rate: 0.004219
+2024-12-15 10:45:09,718 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch217_acc96.64.pth
+2024-12-15 10:45:09,718 - INFO - 
+Epoch 218/300:
+2024-12-15 10:45:09,718 - INFO - Train Loss: 0.0894 | Train Acc: 96.64%
+2024-12-15 10:45:09,718 - INFO - Best Train Acc: 96.64%
+2024-12-15 10:45:09,718 - INFO - Learning Rate: 0.004219
+2024-12-15 10:47:41,820 - INFO - 
+Epoch 219/300:
+2024-12-15 10:47:41,820 - INFO - Train Loss: 0.0904 | Train Acc: 96.58%
+2024-12-15 10:47:41,820 - INFO - Best Train Acc: 96.64%
+2024-12-15 10:47:41,820 - INFO - Learning Rate: 0.004219
+2024-12-15 10:50:14,579 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch219_acc96.65.pth
+2024-12-15 10:50:14,841 - INFO - 
+Epoch 220/300:
+2024-12-15 10:50:14,841 - INFO - Train Loss: 0.0888 | Train Acc: 96.65%
+2024-12-15 10:50:14,841 - INFO - Best Train Acc: 96.65%
+2024-12-15 10:50:14,841 - INFO - Learning Rate: 0.004219
+2024-12-15 10:52:47,394 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch220_acc96.73.pth
+2024-12-15 10:52:47,433 - INFO - 
+Epoch 221/300:
+2024-12-15 10:52:47,433 - INFO - Train Loss: 0.0866 | Train Acc: 96.73%
+2024-12-15 10:52:47,433 - INFO - Best Train Acc: 96.73%
+2024-12-15 10:52:47,433 - INFO - Learning Rate: 0.004219
+2024-12-15 10:55:19,702 - INFO - 
+Epoch 222/300:
+2024-12-15 10:55:19,702 - INFO - Train Loss: 0.0879 | Train Acc: 96.70%
+2024-12-15 10:55:19,702 - INFO - Best Train Acc: 96.73%
+2024-12-15 10:55:19,703 - INFO - Learning Rate: 0.004219
+2024-12-15 10:57:51,781 - INFO - 
+Epoch 223/300:
+2024-12-15 10:57:51,782 - INFO - Train Loss: 0.0872 | Train Acc: 96.70%
+2024-12-15 10:57:51,782 - INFO - Best Train Acc: 96.73%
+2024-12-15 10:57:51,782 - INFO - Learning Rate: 0.004219
+2024-12-15 11:00:23,989 - INFO - 
+Epoch 224/300:
+2024-12-15 11:00:23,989 - INFO - Train Loss: 0.0869 | Train Acc: 96.70%
+2024-12-15 11:00:23,989 - INFO - Best Train Acc: 96.73%
+2024-12-15 11:00:23,989 - INFO - Learning Rate: 0.004219
+2024-12-15 11:02:56,882 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch224_acc96.74.pth
+2024-12-15 11:02:56,883 - INFO - 
+Epoch 225/300:
+2024-12-15 11:02:56,883 - INFO - Train Loss: 0.0860 | Train Acc: 96.74%
+2024-12-15 11:02:56,883 - INFO - Best Train Acc: 96.74%
+2024-12-15 11:02:56,883 - INFO - Learning Rate: 0.004219
+2024-12-15 11:05:29,615 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch225_acc96.75.pth
+2024-12-15 11:05:29,615 - INFO - 
+Epoch 226/300:
+2024-12-15 11:05:29,615 - INFO - Train Loss: 0.0855 | Train Acc: 96.75%
+2024-12-15 11:05:29,615 - INFO - Best Train Acc: 96.75%
+2024-12-15 11:05:29,615 - INFO - Learning Rate: 0.004219
+2024-12-15 11:08:01,867 - INFO - 
+Epoch 227/300:
+2024-12-15 11:08:01,867 - INFO - Train Loss: 0.0866 | Train Acc: 96.75%
+2024-12-15 11:08:01,867 - INFO - Best Train Acc: 96.75%
+2024-12-15 11:08:01,867 - INFO - Learning Rate: 0.004219
+2024-12-15 11:10:34,487 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch227_acc96.75.pth
+2024-12-15 11:10:34,488 - INFO - 
+Epoch 228/300:
+2024-12-15 11:10:34,488 - INFO - Train Loss: 0.0857 | Train Acc: 96.75%
+2024-12-15 11:10:34,488 - INFO - Best Train Acc: 96.75%
+2024-12-15 11:10:34,488 - INFO - Learning Rate: 0.004219
+2024-12-15 11:13:06,397 - INFO - 
+Epoch 229/300:
+2024-12-15 11:13:06,397 - INFO - Train Loss: 0.0863 | Train Acc: 96.73%
+2024-12-15 11:13:06,397 - INFO - Best Train Acc: 96.75%
+2024-12-15 11:13:06,397 - INFO - Learning Rate: 0.004219
+2024-12-15 11:15:39,063 - INFO - 
+Epoch 230/300:
+2024-12-15 11:15:39,063 - INFO - Train Loss: 0.0868 | Train Acc: 96.70%
+2024-12-15 11:15:39,063 - INFO - Best Train Acc: 96.75%
+2024-12-15 11:15:39,063 - INFO - Learning Rate: 0.004219
+2024-12-15 11:18:10,973 - INFO - 
+Epoch 231/300:
+2024-12-15 11:18:10,973 - INFO - Train Loss: 0.0863 | Train Acc: 96.71%
+2024-12-15 11:18:10,973 - INFO - Best Train Acc: 96.75%
+2024-12-15 11:18:10,973 - INFO - Learning Rate: 0.004219
+2024-12-15 11:20:43,682 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch231_acc96.79.pth
+2024-12-15 11:20:43,682 - INFO - 
+Epoch 232/300:
+2024-12-15 11:20:43,682 - INFO - Train Loss: 0.0847 | Train Acc: 96.79%
+2024-12-15 11:20:43,682 - INFO - Best Train Acc: 96.79%
+2024-12-15 11:20:43,682 - INFO - Learning Rate: 0.004219
+2024-12-15 11:23:15,776 - INFO - 
+Epoch 233/300:
+2024-12-15 11:23:15,777 - INFO - Train Loss: 0.0862 | Train Acc: 96.73%
+2024-12-15 11:23:15,777 - INFO - Best Train Acc: 96.79%
+2024-12-15 11:23:15,777 - INFO - Learning Rate: 0.004219
+2024-12-15 11:25:48,074 - INFO - 
+Epoch 234/300:
+2024-12-15 11:25:48,075 - INFO - Train Loss: 0.0861 | Train Acc: 96.76%
+2024-12-15 11:25:48,075 - INFO - Best Train Acc: 96.79%
+2024-12-15 11:25:48,075 - INFO - Learning Rate: 0.004219
+2024-12-15 11:28:20,514 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch234_acc96.79.pth
+2024-12-15 11:28:20,514 - INFO - 
+Epoch 235/300:
+2024-12-15 11:28:20,514 - INFO - Train Loss: 0.0846 | Train Acc: 96.79%
+2024-12-15 11:28:20,514 - INFO - Best Train Acc: 96.79%
+2024-12-15 11:28:20,514 - INFO - Learning Rate: 0.004219
+2024-12-15 11:30:52,343 - INFO - 
+Epoch 236/300:
+2024-12-15 11:30:52,343 - INFO - Train Loss: 0.0859 | Train Acc: 96.75%
+2024-12-15 11:30:52,343 - INFO - Best Train Acc: 96.79%
+2024-12-15 11:30:52,343 - INFO - Learning Rate: 0.004219
+2024-12-15 11:33:24,335 - INFO - 
+Epoch 237/300:
+2024-12-15 11:33:24,336 - INFO - Train Loss: 0.0855 | Train Acc: 96.73%
+2024-12-15 11:33:24,336 - INFO - Best Train Acc: 96.79%
+2024-12-15 11:33:24,336 - INFO - Learning Rate: 0.004219
+2024-12-15 11:35:57,292 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch237_acc96.83.pth
+2024-12-15 11:35:57,292 - INFO - 
+Epoch 238/300:
+2024-12-15 11:35:57,292 - INFO - Train Loss: 0.0849 | Train Acc: 96.83%
+2024-12-15 11:35:57,292 - INFO - Best Train Acc: 96.83%
+2024-12-15 11:35:57,292 - INFO - Learning Rate: 0.004219
+2024-12-15 11:38:29,582 - INFO - 
+Epoch 239/300:
+2024-12-15 11:38:29,582 - INFO - Train Loss: 0.0844 | Train Acc: 96.80%
+2024-12-15 11:38:29,582 - INFO - Best Train Acc: 96.83%
+2024-12-15 11:38:29,582 - INFO - Learning Rate: 0.004219
+2024-12-15 11:41:02,220 - INFO - 
+Epoch 240/300:
+2024-12-15 11:41:02,220 - INFO - Train Loss: 0.0838 | Train Acc: 96.80%
+2024-12-15 11:41:02,220 - INFO - Best Train Acc: 96.83%
+2024-12-15 11:41:02,220 - INFO - Learning Rate: 0.004219
+2024-12-15 11:43:34,559 - INFO - 
+Epoch 241/300:
+2024-12-15 11:43:34,559 - INFO - Train Loss: 0.0846 | Train Acc: 96.79%
+2024-12-15 11:43:34,559 - INFO - Best Train Acc: 96.83%
+2024-12-15 11:43:34,559 - INFO - Learning Rate: 0.004219
+2024-12-15 11:46:07,371 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch241_acc96.85.pth
+2024-12-15 11:46:07,372 - INFO - 
+Epoch 242/300:
+2024-12-15 11:46:07,372 - INFO - Train Loss: 0.0834 | Train Acc: 96.85%
+2024-12-15 11:46:07,372 - INFO - Best Train Acc: 96.85%
+2024-12-15 11:46:07,372 - INFO - Learning Rate: 0.004219
+2024-12-15 11:48:40,120 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch242_acc96.85.pth
+2024-12-15 11:48:40,157 - INFO - 
+Epoch 243/300:
+2024-12-15 11:48:40,158 - INFO - Train Loss: 0.0835 | Train Acc: 96.85%
+2024-12-15 11:48:40,158 - INFO - Best Train Acc: 96.85%
+2024-12-15 11:48:40,158 - INFO - Learning Rate: 0.004219
+2024-12-15 11:51:12,535 - INFO - 
+Epoch 244/300:
+2024-12-15 11:51:12,535 - INFO - Train Loss: 0.0838 | Train Acc: 96.82%
+2024-12-15 11:51:12,535 - INFO - Best Train Acc: 96.85%
+2024-12-15 11:51:12,536 - INFO - Learning Rate: 0.004219
+2024-12-15 11:53:44,737 - INFO - 
+Epoch 245/300:
+2024-12-15 11:53:44,738 - INFO - Train Loss: 0.0840 | Train Acc: 96.81%
+2024-12-15 11:53:44,738 - INFO - Best Train Acc: 96.85%
+2024-12-15 11:53:44,738 - INFO - Learning Rate: 0.004219
+2024-12-15 11:56:17,808 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch245_acc96.85.pth
+2024-12-15 11:56:17,808 - INFO - 
+Epoch 246/300:
+2024-12-15 11:56:17,808 - INFO - Train Loss: 0.0824 | Train Acc: 96.85%
+2024-12-15 11:56:17,808 - INFO - Best Train Acc: 96.85%
+2024-12-15 11:56:17,808 - INFO - Learning Rate: 0.004219
+2024-12-15 11:58:50,091 - INFO - 
+Epoch 247/300:
+2024-12-15 11:58:50,092 - INFO - Train Loss: 0.0846 | Train Acc: 96.81%
+2024-12-15 11:58:50,092 - INFO - Best Train Acc: 96.85%
+2024-12-15 11:58:50,092 - INFO - Learning Rate: 0.004219
+2024-12-15 12:01:22,448 - INFO - 
+Epoch 248/300:
+2024-12-15 12:01:22,448 - INFO - Train Loss: 0.0840 | Train Acc: 96.81%
+2024-12-15 12:01:22,448 - INFO - Best Train Acc: 96.85%
+2024-12-15 12:01:22,448 - INFO - Learning Rate: 0.003164
+2024-12-15 12:03:55,179 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch248_acc97.00.pth
+2024-12-15 12:03:55,180 - INFO - 
+Epoch 249/300:
+2024-12-15 12:03:55,180 - INFO - Train Loss: 0.0787 | Train Acc: 97.00%
+2024-12-15 12:03:55,180 - INFO - Best Train Acc: 97.00%
+2024-12-15 12:03:55,180 - INFO - Learning Rate: 0.003164
+2024-12-15 12:06:36,258 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch249_acc97.06.pth
+2024-12-15 12:06:36,586 - INFO - 
+Epoch 250/300:
+2024-12-15 12:06:36,586 - INFO - Train Loss: 0.0771 | Train Acc: 97.06%
+2024-12-15 12:06:36,586 - INFO - Best Train Acc: 97.06%
+2024-12-15 12:06:36,586 - INFO - Learning Rate: 0.003164
+2024-12-15 12:09:27,595 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch250_acc97.06.pth
+2024-12-15 12:09:27,595 - INFO - 
+Epoch 251/300:
+2024-12-15 12:09:27,595 - INFO - Train Loss: 0.0781 | Train Acc: 97.06%
+2024-12-15 12:09:27,595 - INFO - Best Train Acc: 97.06%
+2024-12-15 12:09:27,595 - INFO - Learning Rate: 0.003164
+2024-12-15 12:12:02,736 - INFO - 
+Epoch 252/300:
+2024-12-15 12:12:02,737 - INFO - Train Loss: 0.0770 | Train Acc: 97.05%
+2024-12-15 12:12:02,737 - INFO - Best Train Acc: 97.06%
+2024-12-15 12:12:02,737 - INFO - Learning Rate: 0.003164
+2024-12-15 12:14:46,020 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch252_acc97.07.pth
+2024-12-15 12:14:46,020 - INFO - 
+Epoch 253/300:
+2024-12-15 12:14:46,020 - INFO - Train Loss: 0.0767 | Train Acc: 97.07%
+2024-12-15 12:14:46,020 - INFO - Best Train Acc: 97.07%
+2024-12-15 12:14:46,020 - INFO - Learning Rate: 0.003164
+2024-12-15 12:17:20,429 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch253_acc97.09.pth
+2024-12-15 12:17:20,429 - INFO - 
+Epoch 254/300:
+2024-12-15 12:17:20,429 - INFO - Train Loss: 0.0761 | Train Acc: 97.09%
+2024-12-15 12:17:20,429 - INFO - Best Train Acc: 97.09%
+2024-12-15 12:17:20,429 - INFO - Learning Rate: 0.003164
+2024-12-15 12:20:21,177 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch254_acc97.13.pth
+2024-12-15 12:20:21,183 - INFO - 
+Epoch 255/300:
+2024-12-15 12:20:21,183 - INFO - Train Loss: 0.0748 | Train Acc: 97.13%
+2024-12-15 12:20:21,183 - INFO - Best Train Acc: 97.13%
+2024-12-15 12:20:21,183 - INFO - Learning Rate: 0.003164
+2024-12-15 12:23:18,738 - INFO - 
+Epoch 256/300:
+2024-12-15 12:23:18,738 - INFO - Train Loss: 0.0767 | Train Acc: 97.08%
+2024-12-15 12:23:18,738 - INFO - Best Train Acc: 97.13%
+2024-12-15 12:23:18,738 - INFO - Learning Rate: 0.003164
+2024-12-15 12:26:26,117 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch256_acc97.17.pth
+2024-12-15 12:26:26,155 - INFO - 
+Epoch 257/300:
+2024-12-15 12:26:26,155 - INFO - Train Loss: 0.0757 | Train Acc: 97.17%
+2024-12-15 12:26:26,156 - INFO - Best Train Acc: 97.17%
+2024-12-15 12:26:26,156 - INFO - Learning Rate: 0.003164
+2024-12-15 12:29:25,879 - INFO - 
+Epoch 258/300:
+2024-12-15 12:29:25,879 - INFO - Train Loss: 0.0755 | Train Acc: 97.08%
+2024-12-15 12:29:25,879 - INFO - Best Train Acc: 97.17%
+2024-12-15 12:29:25,879 - INFO - Learning Rate: 0.003164
+2024-12-15 12:32:30,414 - INFO - 
+Epoch 259/300:
+2024-12-15 12:32:30,451 - INFO - Train Loss: 0.0749 | Train Acc: 97.13%
+2024-12-15 12:32:30,452 - INFO - Best Train Acc: 97.17%
+2024-12-15 12:32:30,452 - INFO - Learning Rate: 0.003164
+2024-12-15 12:35:04,163 - INFO - 
+Epoch 260/300:
+2024-12-15 12:35:04,163 - INFO - Train Loss: 0.0765 | Train Acc: 97.06%
+2024-12-15 12:35:04,163 - INFO - Best Train Acc: 97.17%
+2024-12-15 12:35:04,163 - INFO - Learning Rate: 0.003164
+2024-12-15 12:37:36,491 - INFO - 
+Epoch 261/300:
+2024-12-15 12:37:36,491 - INFO - Train Loss: 0.0754 | Train Acc: 97.12%
+2024-12-15 12:37:36,491 - INFO - Best Train Acc: 97.17%
+2024-12-15 12:37:36,491 - INFO - Learning Rate: 0.003164
+2024-12-15 12:40:09,433 - INFO - 
+Epoch 262/300:
+2024-12-15 12:40:09,433 - INFO - Train Loss: 0.0753 | Train Acc: 97.13%
+2024-12-15 12:40:09,433 - INFO - Best Train Acc: 97.17%
+2024-12-15 12:40:09,433 - INFO - Learning Rate: 0.003164
+2024-12-15 12:42:42,839 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch262_acc97.19.pth
+2024-12-15 12:42:42,840 - INFO - 
+Epoch 263/300:
+2024-12-15 12:42:42,840 - INFO - Train Loss: 0.0746 | Train Acc: 97.19%
+2024-12-15 12:42:42,840 - INFO - Best Train Acc: 97.19%
+2024-12-15 12:42:42,840 - INFO - Learning Rate: 0.003164
+2024-12-15 12:45:15,743 - INFO - 
+Epoch 264/300:
+2024-12-15 12:45:15,744 - INFO - Train Loss: 0.0751 | Train Acc: 97.13%
+2024-12-15 12:45:15,744 - INFO - Best Train Acc: 97.19%
+2024-12-15 12:45:15,744 - INFO - Learning Rate: 0.003164
+2024-12-15 12:47:48,134 - INFO - 
+Epoch 265/300:
+2024-12-15 12:47:48,134 - INFO - Train Loss: 0.0743 | Train Acc: 97.16%
+2024-12-15 12:47:48,134 - INFO - Best Train Acc: 97.19%
+2024-12-15 12:47:48,134 - INFO - Learning Rate: 0.003164
+2024-12-15 12:50:20,606 - INFO - 
+Epoch 266/300:
+2024-12-15 12:50:20,606 - INFO - Train Loss: 0.0747 | Train Acc: 97.16%
+2024-12-15 12:50:20,606 - INFO - Best Train Acc: 97.19%
+2024-12-15 12:50:20,606 - INFO - Learning Rate: 0.003164
+2024-12-15 12:52:53,070 - INFO - 
+Epoch 267/300:
+2024-12-15 12:52:53,070 - INFO - Train Loss: 0.0752 | Train Acc: 97.13%
+2024-12-15 12:52:53,070 - INFO - Best Train Acc: 97.19%
+2024-12-15 12:52:53,070 - INFO - Learning Rate: 0.003164
+2024-12-15 12:55:25,569 - INFO - 
+Epoch 268/300:
+2024-12-15 12:55:25,569 - INFO - Train Loss: 0.0744 | Train Acc: 97.15%
+2024-12-15 12:55:25,569 - INFO - Best Train Acc: 97.19%
+2024-12-15 12:55:25,569 - INFO - Learning Rate: 0.003164
+2024-12-15 12:58:01,160 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch268_acc97.21.pth
+2024-12-15 12:58:01,161 - INFO - 
+Epoch 269/300:
+2024-12-15 12:58:01,161 - INFO - Train Loss: 0.0733 | Train Acc: 97.21%
+2024-12-15 12:58:01,161 - INFO - Best Train Acc: 97.21%
+2024-12-15 12:58:01,161 - INFO - Learning Rate: 0.003164
+2024-12-15 13:01:12,871 - INFO - 
+Epoch 270/300:
+2024-12-15 13:01:12,908 - INFO - Train Loss: 0.0750 | Train Acc: 97.15%
+2024-12-15 13:01:12,908 - INFO - Best Train Acc: 97.21%
+2024-12-15 13:01:12,908 - INFO - Learning Rate: 0.003164
+2024-12-15 13:04:25,068 - INFO - 
+Epoch 271/300:
+2024-12-15 13:04:25,069 - INFO - Train Loss: 0.0750 | Train Acc: 97.13%
+2024-12-15 13:04:25,069 - INFO - Best Train Acc: 97.21%
+2024-12-15 13:04:25,069 - INFO - Learning Rate: 0.003164
+2024-12-15 13:07:18,806 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch271_acc97.26.pth
+2024-12-15 13:07:18,806 - INFO - 
+Epoch 272/300:
+2024-12-15 13:07:18,806 - INFO - Train Loss: 0.0722 | Train Acc: 97.26%
+2024-12-15 13:07:18,806 - INFO - Best Train Acc: 97.26%
+2024-12-15 13:07:18,806 - INFO - Learning Rate: 0.003164
+2024-12-15 13:10:35,925 - INFO - 
+Epoch 273/300:
+2024-12-15 13:10:35,963 - INFO - Train Loss: 0.0747 | Train Acc: 97.18%
+2024-12-15 13:10:35,963 - INFO - Best Train Acc: 97.26%
+2024-12-15 13:10:35,963 - INFO - Learning Rate: 0.003164
+2024-12-15 13:14:07,714 - INFO - 
+Epoch 274/300:
+2024-12-15 13:14:07,714 - INFO - Train Loss: 0.0730 | Train Acc: 97.21%
+2024-12-15 13:14:07,714 - INFO - Best Train Acc: 97.26%
+2024-12-15 13:14:07,715 - INFO - Learning Rate: 0.003164
+2024-12-15 13:17:34,778 - INFO - 
+Epoch 275/300:
+2024-12-15 13:17:34,779 - INFO - Train Loss: 0.0723 | Train Acc: 97.21%
+2024-12-15 13:17:34,779 - INFO - Best Train Acc: 97.26%
+2024-12-15 13:17:34,779 - INFO - Learning Rate: 0.003164
+2024-12-15 13:20:58,081 - INFO - 
+Epoch 276/300:
+2024-12-15 13:20:58,081 - INFO - Train Loss: 0.0734 | Train Acc: 97.16%
+2024-12-15 13:20:58,081 - INFO - Best Train Acc: 97.26%
+2024-12-15 13:20:58,081 - INFO - Learning Rate: 0.003164
+2024-12-15 13:24:09,871 - INFO - 
+Epoch 277/300:
+2024-12-15 13:24:09,871 - INFO - Train Loss: 0.0736 | Train Acc: 97.20%
+2024-12-15 13:24:09,871 - INFO - Best Train Acc: 97.26%
+2024-12-15 13:24:09,871 - INFO - Learning Rate: 0.003164
+2024-12-15 13:27:18,078 - INFO - 
+Epoch 278/300:
+2024-12-15 13:27:18,078 - INFO - Train Loss: 0.0730 | Train Acc: 97.19%
+2024-12-15 13:27:18,078 - INFO - Best Train Acc: 97.26%
+2024-12-15 13:27:18,078 - INFO - Learning Rate: 0.002373
+2024-12-15 13:30:37,981 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch278_acc97.29.pth
+2024-12-15 13:30:37,982 - INFO - 
+Epoch 279/300:
+2024-12-15 13:30:37,982 - INFO - Train Loss: 0.0708 | Train Acc: 97.29%
+2024-12-15 13:30:37,982 - INFO - Best Train Acc: 97.29%
+2024-12-15 13:30:37,982 - INFO - Learning Rate: 0.002373
+2024-12-15 13:33:36,133 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch279_acc97.36.pth
+2024-12-15 13:33:36,405 - INFO - 
+Epoch 280/300:
+2024-12-15 13:33:36,405 - INFO - Train Loss: 0.0691 | Train Acc: 97.36%
+2024-12-15 13:33:36,405 - INFO - Best Train Acc: 97.36%
+2024-12-15 13:33:36,406 - INFO - Learning Rate: 0.002373
+2024-12-15 13:36:21,395 - INFO - 
+Epoch 281/300:
+2024-12-15 13:36:21,395 - INFO - Train Loss: 0.0688 | Train Acc: 97.36%
+2024-12-15 13:36:21,395 - INFO - Best Train Acc: 97.36%
+2024-12-15 13:36:21,395 - INFO - Learning Rate: 0.002373
+2024-12-15 13:39:12,103 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch281_acc97.37.pth
+2024-12-15 13:39:12,103 - INFO - 
+Epoch 282/300:
+2024-12-15 13:39:12,103 - INFO - Train Loss: 0.0689 | Train Acc: 97.37%
+2024-12-15 13:39:12,103 - INFO - Best Train Acc: 97.37%
+2024-12-15 13:39:12,103 - INFO - Learning Rate: 0.002373
+2024-12-15 13:42:01,944 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch282_acc97.50.pth
+2024-12-15 13:42:01,944 - INFO - 
+Epoch 283/300:
+2024-12-15 13:42:01,944 - INFO - Train Loss: 0.0660 | Train Acc: 97.50%
+2024-12-15 13:42:01,944 - INFO - Best Train Acc: 97.50%
+2024-12-15 13:42:01,944 - INFO - Learning Rate: 0.002373
+2024-12-15 13:45:00,900 - INFO - 
+Epoch 284/300:
+2024-12-15 13:45:00,901 - INFO - Train Loss: 0.0677 | Train Acc: 97.45%
+2024-12-15 13:45:00,901 - INFO - Best Train Acc: 97.50%
+2024-12-15 13:45:00,901 - INFO - Learning Rate: 0.002373
+2024-12-15 13:48:06,885 - INFO - 
+Epoch 285/300:
+2024-12-15 13:48:06,886 - INFO - Train Loss: 0.0693 | Train Acc: 97.35%
+2024-12-15 13:48:06,886 - INFO - Best Train Acc: 97.50%
+2024-12-15 13:48:06,886 - INFO - Learning Rate: 0.002373
+2024-12-15 13:50:53,340 - INFO - 
+Epoch 286/300:
+2024-12-15 13:50:53,340 - INFO - Train Loss: 0.0681 | Train Acc: 97.42%
+2024-12-15 13:50:53,340 - INFO - Best Train Acc: 97.50%
+2024-12-15 13:50:53,340 - INFO - Learning Rate: 0.002373
+2024-12-15 13:53:40,937 - INFO - 
+Epoch 287/300:
+2024-12-15 13:53:40,937 - INFO - Train Loss: 0.0663 | Train Acc: 97.48%
+2024-12-15 13:53:40,937 - INFO - Best Train Acc: 97.50%
+2024-12-15 13:53:40,938 - INFO - Learning Rate: 0.002373
+2024-12-15 13:56:24,363 - INFO - 
+Epoch 288/300:
+2024-12-15 13:56:24,364 - INFO - Train Loss: 0.0678 | Train Acc: 97.41%
+2024-12-15 13:56:24,364 - INFO - Best Train Acc: 97.50%
+2024-12-15 13:56:24,364 - INFO - Learning Rate: 0.002373
+2024-12-15 13:59:06,692 - INFO - 
+Epoch 289/300:
+2024-12-15 13:59:06,692 - INFO - Train Loss: 0.0675 | Train Acc: 97.49%
+2024-12-15 13:59:06,692 - INFO - Best Train Acc: 97.50%
+2024-12-15 13:59:06,692 - INFO - Learning Rate: 0.001780
+2024-12-15 14:01:55,017 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch289_acc97.53.pth
+2024-12-15 14:01:55,459 - INFO - 
+Epoch 290/300:
+2024-12-15 14:01:55,459 - INFO - Train Loss: 0.0653 | Train Acc: 97.53%
+2024-12-15 14:01:55,459 - INFO - Best Train Acc: 97.53%
+2024-12-15 14:01:55,459 - INFO - Learning Rate: 0.001780
+2024-12-15 14:04:56,826 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch290_acc97.59.pth
+2024-12-15 14:04:56,826 - INFO - 
+Epoch 291/300:
+2024-12-15 14:04:56,826 - INFO - Train Loss: 0.0634 | Train Acc: 97.59%
+2024-12-15 14:04:56,826 - INFO - Best Train Acc: 97.59%
+2024-12-15 14:04:56,826 - INFO - Learning Rate: 0.001780
+2024-12-15 14:07:36,764 - INFO - 
+Epoch 292/300:
+2024-12-15 14:07:36,764 - INFO - Train Loss: 0.0640 | Train Acc: 97.57%
+2024-12-15 14:07:36,765 - INFO - Best Train Acc: 97.59%
+2024-12-15 14:07:36,765 - INFO - Learning Rate: 0.001780
+2024-12-15 14:10:26,085 - INFO - 
+Epoch 293/300:
+2024-12-15 14:10:26,086 - INFO - Train Loss: 0.0640 | Train Acc: 97.54%
+2024-12-15 14:10:26,086 - INFO - Best Train Acc: 97.59%
+2024-12-15 14:10:26,086 - INFO - Learning Rate: 0.001780
+2024-12-15 14:13:24,441 - INFO - 
+Epoch 294/300:
+2024-12-15 14:13:24,442 - INFO - Train Loss: 0.0625 | Train Acc: 97.59%
+2024-12-15 14:13:24,442 - INFO - Best Train Acc: 97.59%
+2024-12-15 14:13:24,442 - INFO - Learning Rate: 0.001780
+2024-12-15 14:16:22,740 - INFO - 
+Epoch 295/300:
+2024-12-15 14:16:22,740 - INFO - Train Loss: 0.0639 | Train Acc: 97.54%
+2024-12-15 14:16:22,740 - INFO - Best Train Acc: 97.59%
+2024-12-15 14:16:22,740 - INFO - Learning Rate: 0.001780
+2024-12-15 14:19:16,906 - INFO - 
+Epoch 296/300:
+2024-12-15 14:19:16,906 - INFO - Train Loss: 0.0648 | Train Acc: 97.56%
+2024-12-15 14:19:16,906 - INFO - Best Train Acc: 97.59%
+2024-12-15 14:19:16,907 - INFO - Learning Rate: 0.001780
+2024-12-15 14:22:08,144 - INFO - 
+Epoch 297/300:
+2024-12-15 14:22:08,144 - INFO - Train Loss: 0.0650 | Train Acc: 97.50%
+2024-12-15 14:22:08,144 - INFO - Best Train Acc: 97.59%
+2024-12-15 14:22:08,144 - INFO - Learning Rate: 0.001335
+2024-12-15 14:24:51,988 - INFO - 
+Epoch 298/300:
+2024-12-15 14:24:51,989 - INFO - Train Loss: 0.0623 | Train Acc: 97.58%
+2024-12-15 14:24:51,989 - INFO - Best Train Acc: 97.59%
+2024-12-15 14:24:51,989 - INFO - Learning Rate: 0.001335
+2024-12-15 14:27:44,405 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch298_acc97.68.pth
+2024-12-15 14:27:44,405 - INFO - 
+Epoch 299/300:
+2024-12-15 14:27:44,405 - INFO - Train Loss: 0.0614 | Train Acc: 97.68%
+2024-12-15 14:27:44,405 - INFO - Best Train Acc: 97.68%
+2024-12-15 14:27:44,405 - INFO - Learning Rate: 0.001335
+2024-12-15 14:30:39,415 - INFO - Checkpoint saved: checkpoints/checkpoint_epoch299_acc97.71.pth
+2024-12-15 14:30:39,793 - INFO - 
+Epoch 300/300:
+2024-12-15 14:30:39,793 - INFO - Train Loss: 0.0607 | Train Acc: 97.71%
+2024-12-15 14:30:39,793 - INFO - Best Train Acc: 97.71%
+2024-12-15 14:30:39,793 - INFO - Learning Rate: 0.001335
